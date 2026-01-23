@@ -1,85 +1,5 @@
 {
   "articles": {
-    "291a3f7cb16cd8ad0655e84eb5a3b73c": {
-      "title_preview": "Honeywell & Borouge Launch AI-Powered Autonomous Petrochemical Operations in UAE",
-      "date_sent": "2025-12-23T20:39:22.279478"
-    },
-    "ac61584b3589b638d623d8558db35335": {
-      "title_preview": "Japan's Eneos to adopt AI for failure prevention at refineries - Nikkei Asia",
-      "date_sent": "2025-12-23T20:39:22.279478"
-    },
-    "4995ffc681b74b2516857dff69b759d6": {
-      "title_preview": "Virtual flow meter based on artificial intelligence is implemented in oil wells ",
-      "date_sent": "2025-12-23T20:39:22.279478"
-    },
-    "71a5409723110ae7b1c72d35af704807": {
-      "title_preview": "AI in Oil and Gas: Preventing Equipment Failures Before They Cost Millions - Ene",
-      "date_sent": "2025-12-23T20:39:22.279478"
-    },
-    "f7020a44fae9cdb670fa6dfcd05de854": {
-      "title_preview": "Optimization and modeling of sulfur removal from liquid fuel using carbon-based ",
-      "date_sent": "2025-12-23T20:39:22.279478"
-    },
-    "de4122f801416ec636a5aa5fa740b1ea": {
-      "title_preview": "Univation Technologies and C3 AI Collaborate to Deliver Enterprise AI Solutions ",
-      "date_sent": "2025-12-23T20:40:16.968824"
-    },
-    "8937b5b8fed34b1cd1e66622204e5b26": {
-      "title_preview": "Kongsberg Digital and Petroleum Development Oman Ink Deal To Deploy AI-Based Dig",
-      "date_sent": "2025-12-23T20:40:16.968824"
-    },
-    "ee81ca934c5eb0a5510ba18c1bccf246": {
-      "title_preview": "Superintelligence for oil refineries: Meet the British startup making fossil fue",
-      "date_sent": "2025-12-23T20:40:16.968824"
-    },
-    "ad45d389bf32df28acfe4a3bad9c9367": {
-      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
-      "date_sent": "2025-12-23T20:40:16.968824"
-    },
-    "4ec17ca523978f842c5c4e68bf5721bf": {
-      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
-      "date_sent": "2025-12-23T20:40:16.968824"
-    },
-    "646c27e213498090fb399fdd25cade0a": {
-      "title_preview": "C3.ai (AI) and Univation Strike AI Deal for Advanced Predictive Maintenance Acro",
-      "date_sent": "2025-12-23T18:44:30.770424"
-    },
-    "5376f587f5c792a5030e102a429d356f": {
-      "title_preview": "Refining Intelligence: Transforming Operations with AI - chemengonline.com",
-      "date_sent": "2025-12-23T18:44:30.770424"
-    },
-    "a1baec5111afef76c7fd1ca29294799c": {
-      "title_preview": "Transforming Petroleum Recovery with Advanced AI Technology - Discovery Alert",
-      "date_sent": "2025-12-23T18:44:30.770424"
-    },
-    "c82c40e1625ac66d59e2cfb82a7933f4": {
-      "title_preview": "Formation permeability estimation using mud loss data by deep learning - Nature",
-      "date_sent": "2025-12-23T18:44:30.770424"
-    },
-    "a6ddc47f30a70d81869519fea1dbba45": {
-      "title_preview": "AI Aids Detection and Understanding of Oil Spills - Society of Petroleum Enginee",
-      "date_sent": "2025-12-23T18:44:30.770424"
-    },
-    "56e4dc36ec58a4c1f7e72d6648e342bd": {
-      "title_preview": "5 ways bp uses AI and other tech to drive performance",
-      "date_sent": "2025-12-23T18:46:04.431824"
-    },
-    "7eadffee94799a24c56281647427b321": {
-      "title_preview": "The power of AI in petrochemical operations",
-      "date_sent": "2025-12-23T18:46:04.431824"
-    },
-    "6a1730e0a399d9f91c53ddf3148b254e": {
-      "title_preview": "Evaluation of hydraulic fracturing using machine learning",
-      "date_sent": "2025-12-23T18:46:04.431824"
-    },
-    "9a091110867eeb276ac8c8f1471255f1": {
-      "title_preview": "AI in Oil and Gas Market Size Worth USD 25.24 Bn by 2034 Driven by Predictive Ma",
-      "date_sent": "2025-12-23T18:46:04.431824"
-    },
-    "f928dbbf6bfd4938c57ef67cebef97a2": {
-      "title_preview": "How Smart Technology in Oil and Gas Industry Cuts Refinery Costs by 40%",
-      "date_sent": "2025-12-23T18:46:04.431824"
-    },
     "79183865a2a4ac2734530094ff867d2b": {
       "title_preview": "5 ways bp uses AI and other tech to drive performance - BP Global",
       "date_sent": "2025-12-24T06:06:03.406655"
@@ -579,7 +499,27 @@
     "e1604d15e10474b9d04a3bf80bda5e05": {
       "title_preview": "Quantum computing and AI are unlocking complex challenges in petrochemical and m",
       "date_sent": "2026-01-22T06:06:16.202367"
+    },
+    "291a3f7cb16cd8ad0655e84eb5a3b73c": {
+      "title_preview": "Honeywell & Borouge Launch AI-Powered Autonomous Petrochemical Operations in UAE",
+      "date_sent": "2026-01-23T06:06:08.172430"
+    },
+    "8e8d39222f75dfa301bd1b055c8e8d29": {
+      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
+      "date_sent": "2026-01-23T06:06:08.172430"
+    },
+    "ac61584b3589b638d623d8558db35335": {
+      "title_preview": "Japan's Eneos to adopt AI for failure prevention at refineries - Nikkei Asia",
+      "date_sent": "2026-01-23T06:06:08.172430"
+    },
+    "de4122f801416ec636a5aa5fa740b1ea": {
+      "title_preview": "Univation Technologies and C3 AI Collaborate to Deliver Enterprise AI Solutions ",
+      "date_sent": "2026-01-23T06:06:08.172430"
+    },
+    "ad45d389bf32df28acfe4a3bad9c9367": {
+      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
+      "date_sent": "2026-01-23T06:06:08.172430"
     }
   },
-  "last_updated": "2026-01-22T06:06:16.202447"
+  "last_updated": "2026-01-23T06:06:08.172523"
 }
