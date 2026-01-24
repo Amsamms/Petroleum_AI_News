@@ -1,25 +1,5 @@
 {
   "articles": {
-    "79183865a2a4ac2734530094ff867d2b": {
-      "title_preview": "5 ways bp uses AI and other tech to drive performance - BP Global",
-      "date_sent": "2025-12-24T06:06:03.406655"
-    },
-    "e99c77f12cf6547d99b1d41dc8cec421": {
-      "title_preview": "SLB Unveils Groundbreaking New Agentic AI Technology for the Energy Industry - S",
-      "date_sent": "2025-12-24T06:06:03.406655"
-    },
-    "c4d138d876fcee3a675f54d01464fa65": {
-      "title_preview": "Machine learning enhanced formation pressure prediction using integrated well lo",
-      "date_sent": "2025-12-24T06:06:03.406655"
-    },
-    "d1d3ab06030a9fa7b4ea6802d86c2c49": {
-      "title_preview": "The power of AI in petrochemical operations - Hydrocarbon Engineering",
-      "date_sent": "2025-12-24T06:06:03.406655"
-    },
-    "4afd6754e35c97a7702daed213cc1156": {
-      "title_preview": "ExxonMobil\u2019s AI Strategy: Analysis of Sustained Dominance in AI Energy - Klover.",
-      "date_sent": "2025-12-24T06:06:03.406655"
-    },
     "b27b7ba68a5789bff31cb584db502fc4": {
       "title_preview": "Kongsberg Digital and Petroleum Development Oman Sign Agreement for Deployment o",
       "date_sent": "2025-12-25T06:06:23.997448"
@@ -490,7 +470,7 @@
     },
     "fc1d8730443bcf42514e43defe447c42": {
       "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-21T06:06:46.469391"
+      "date_sent": "2026-01-24T06:05:11.036992"
     },
     "326382c0f5fc012ebb3c1fae81b58afa": {
       "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
@@ -519,7 +499,23 @@
     "ad45d389bf32df28acfe4a3bad9c9367": {
       "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
       "date_sent": "2026-01-23T06:06:08.172430"
+    },
+    "708fa2542f96fcf284705c9a93bba7e3": {
+      "title_preview": "C3.ai (AI) and Univation Strike AI Deal for Advanced Predictive Maintenance Acro",
+      "date_sent": "2026-01-24T06:05:11.036992"
+    },
+    "33dad64de02588c56ee601d1bc69ff3e": {
+      "title_preview": "Refining Intelligence: Transforming Operations with AI",
+      "date_sent": "2026-01-24T06:05:11.036992"
+    },
+    "23880276f5dce4744581a7c414e5e8fe": {
+      "title_preview": "ExxonMobil\u2019s AI Strategy: Analysis of Sustained Dominance in AI Energy",
+      "date_sent": "2026-01-24T06:05:11.036992"
+    },
+    "890857a9b6f7f105bd03063578153629": {
+      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
+      "date_sent": "2026-01-24T06:05:11.036992"
     }
   },
-  "last_updated": "2026-01-23T06:06:08.172523"
+  "last_updated": "2026-01-24T06:05:11.037088"
 }
