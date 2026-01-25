@@ -1,25 +1,5 @@
 {
   "articles": {
-    "b27b7ba68a5789bff31cb584db502fc4": {
-      "title_preview": "Kongsberg Digital and Petroleum Development Oman Sign Agreement for Deployment o",
-      "date_sent": "2025-12-25T06:06:23.997448"
-    },
-    "ae363a08ae404e80c118b562afbfeef0": {
-      "title_preview": "Borouge to test AI-powered autonomous petrochemicals operations in UAE - Robotic",
-      "date_sent": "2025-12-25T06:06:23.997448"
-    },
-    "8b6a29eb5e64a20d2c762469a2adf46e": {
-      "title_preview": "Unlocking value with AI in the rack-to-retail fuel market - McKinsey & Company",
-      "date_sent": "2025-12-25T06:06:23.997448"
-    },
-    "6116bcec637a3e3ede7f1e0b52a0fc9d": {
-      "title_preview": "Nigerian Researcher develops machine learning model to Predict crude Oil Behavio",
-      "date_sent": "2025-12-25T06:06:23.997448"
-    },
-    "85ddac3ef739a1ba2172768ccd22c185": {
-      "title_preview": "How AI drove data optimization for oil and gas capital projects - EY",
-      "date_sent": "2025-12-25T06:06:23.997448"
-    },
     "54b1b1cbb70d9767ade94fc9c4cabb3c": {
       "title_preview": "Testing a New Deep Learning Model for Petroleum Analysis - Spectroscopy Online",
       "date_sent": "2025-12-26T06:05:43.907760"
@@ -470,7 +450,7 @@
     },
     "fc1d8730443bcf42514e43defe447c42": {
       "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-24T06:05:11.036992"
+      "date_sent": "2026-01-25T06:05:49.634979"
     },
     "326382c0f5fc012ebb3c1fae81b58afa": {
       "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
@@ -502,11 +482,11 @@
     },
     "708fa2542f96fcf284705c9a93bba7e3": {
       "title_preview": "C3.ai (AI) and Univation Strike AI Deal for Advanced Predictive Maintenance Acro",
-      "date_sent": "2026-01-24T06:05:11.036992"
+      "date_sent": "2026-01-25T06:05:49.634979"
     },
     "33dad64de02588c56ee601d1bc69ff3e": {
       "title_preview": "Refining Intelligence: Transforming Operations with AI",
-      "date_sent": "2026-01-24T06:05:11.036992"
+      "date_sent": "2026-01-25T06:05:49.634979"
     },
     "23880276f5dce4744581a7c414e5e8fe": {
       "title_preview": "ExxonMobil\u2019s AI Strategy: Analysis of Sustained Dominance in AI Energy",
@@ -515,7 +495,15 @@
     "890857a9b6f7f105bd03063578153629": {
       "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
       "date_sent": "2026-01-24T06:05:11.036992"
+    },
+    "0acd129a5b9782e5d18ceaddba41b75d": {
+      "title_preview": "Kongsberg Digital and Petroleum Development Oman Sign Agreement for Deployment o",
+      "date_sent": "2026-01-25T06:05:49.634979"
+    },
+    "ef16d4e75f0d74db9c269480da20b93d": {
+      "title_preview": "Here's how AI could unleash a trillion more barrels of oil",
+      "date_sent": "2026-01-25T06:05:49.634979"
     }
   },
-  "last_updated": "2026-01-24T06:05:11.037088"
+  "last_updated": "2026-01-25T06:05:49.635081"
 }
