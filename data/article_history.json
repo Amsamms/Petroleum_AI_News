@@ -1,25 +1,5 @@
 {
   "articles": {
-    "4c81e9f0a584b600d2173967e19fbed4": {
-      "title_preview": "8 Ways AI and Machine Learning is Transforming the Future of Oil and Gas - Energ",
-      "date_sent": "2025-12-30T06:06:08.336356"
-    },
-    "386995213af20e558f9f0d7ed2489669": {
-      "title_preview": "AI for Oil and Gas - Baker Hughes",
-      "date_sent": "2025-12-30T06:06:08.336356"
-    },
-    "c485f6145a8fd6fa370c83941d46dd4d": {
-      "title_preview": "Evaluation of hydraulic fracturing using machine learning - Nature",
-      "date_sent": "2025-12-30T06:06:08.336356"
-    },
-    "cc08f35506dc5e0438842a1b611f3fb7": {
-      "title_preview": "AI in Oil and Gas Market Size Worth USD 25.24 Bn by 2034 - GlobeNewswire",
-      "date_sent": "2025-12-30T06:06:08.336356"
-    },
-    "bea0bbeb8d71a2677bff077e92a9eb47": {
-      "title_preview": "Catalysing new value streams in oil and gas with agentic AI - PwC",
-      "date_sent": "2025-12-30T06:06:08.336356"
-    },
     "c8fb200f2a6c5d21e85b4d7679d91f8d": {
       "title_preview": "Performance investigation of Xanthan gum polymer flooding for enhanced oil recov",
       "date_sent": "2025-12-31T06:06:20.769576"
@@ -446,7 +426,7 @@
     },
     "07b0bd1a1a7ec32deaf093dc9a548b7a": {
       "title_preview": "Preem partners with Imubit for closed-loop AI optimization at Lysekil refinery",
-      "date_sent": "2026-01-28T06:07:18.628910"
+      "date_sent": "2026-01-29T06:14:39.271698"
     },
     "e9b8b1f7954fb0cc4438224258957f04": {
       "title_preview": "A smarter way to prospect for oil and gas - Chevron",
@@ -459,7 +439,23 @@
     "7c60c299ef6d8c5d6bcbdaa1e5fdd6ec": {
       "title_preview": "Smarter Shales: Advancing Niobrara, Mancos, and Mowry Characterization With Phys",
       "date_sent": "2026-01-28T06:07:18.628910"
+    },
+    "2a5a56fa692b215d31040b7d1792f9f8": {
+      "title_preview": "Superintelligence for oil refineries: Meet the British startup making fossil fue",
+      "date_sent": "2026-01-29T06:14:39.271698"
+    },
+    "b6af231f65a4d1bf1b8a13ad5788ded2": {
+      "title_preview": "AI enhanced model predictive control for optimizing LPG recovery through integra",
+      "date_sent": "2026-01-29T06:14:39.271698"
+    },
+    "6a459faf4d37ed081dc3c0f00e34066b": {
+      "title_preview": "Smarter Shales: Advancing Niobrara, Mancos, and Mowry Characterization With Phys",
+      "date_sent": "2026-01-29T06:14:39.271698"
+    },
+    "9582dce9e1bdac1b3ab2d7dbc28bb893": {
+      "title_preview": "Cognite partners with Snowflake to scale industrial AI for oil and gas - World O",
+      "date_sent": "2026-01-29T06:14:39.271698"
     }
   },
-  "last_updated": "2026-01-28T06:07:18.628999"
+  "last_updated": "2026-01-29T06:14:39.271793"
 }
