@@ -1,25 +1,5 @@
 {
   "articles": {
-    "c8fb200f2a6c5d21e85b4d7679d91f8d": {
-      "title_preview": "Performance investigation of Xanthan gum polymer flooding for enhanced oil recov",
-      "date_sent": "2025-12-31T06:06:20.769576"
-    },
-    "f420e6d981996b02da444ec462915fdc": {
-      "title_preview": "10 Top Companies Advancing AI in Oil and Gas Industry in 2025 - StartUs Insights",
-      "date_sent": "2025-12-31T06:06:20.769576"
-    },
-    "fe001c78a82614ec062e29b765775f7f": {
-      "title_preview": "The AI-First Oil and Gas Company - Boston Consulting Group",
-      "date_sent": "2025-12-31T06:06:20.769576"
-    },
-    "2fdd4079ded87408377acf183337b75f": {
-      "title_preview": "Smart technologies for a smart refinery - Exxon Mobil Corporation",
-      "date_sent": "2025-12-31T06:06:20.769576"
-    },
-    "83dff0701c521a40fe8c42b05bb18f58": {
-      "title_preview": "How AI Is Helping the Oil and Gas Industry - Inc.com",
-      "date_sent": "2025-12-31T06:06:20.769576"
-    },
     "e07a8cff49688ed66b141fe4b8ab570e": {
       "title_preview": "Beyond Automation: How Agentic AI Could Transform Oil and Gas Workflows - Societ",
       "date_sent": "2026-01-01T06:06:09.454021"
@@ -455,7 +435,27 @@
     "9582dce9e1bdac1b3ab2d7dbc28bb893": {
       "title_preview": "Cognite partners with Snowflake to scale industrial AI for oil and gas - World O",
       "date_sent": "2026-01-29T06:14:39.271698"
+    },
+    "210d8d4bed7d1571dd937620b1b66cb8": {
+      "title_preview": "Preem partners with Imubit for closed-loop AI optimization at Lysekil refinery -",
+      "date_sent": "2026-01-30T06:15:07.188294"
+    },
+    "4ec17ca523978f842c5c4e68bf5721bf": {
+      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
+      "date_sent": "2026-01-30T06:15:07.188294"
+    },
+    "f8f2dcb6c454e9b6333f606755cf961f": {
+      "title_preview": "5 ways bp uses AI and other tech to drive performance | News and stories | bp Am",
+      "date_sent": "2026-01-30T06:15:07.188294"
+    },
+    "c82c40e1625ac66d59e2cfb82a7933f4": {
+      "title_preview": "Formation permeability estimation using mud loss data by deep learning - Nature",
+      "date_sent": "2026-01-30T06:15:07.188294"
+    },
+    "edbbf13938765b0976a56e0cdd52af7b": {
+      "title_preview": "AI Aids Detection and Understanding of Oil Spills - SPE",
+      "date_sent": "2026-01-30T06:15:07.188294"
     }
   },
-  "last_updated": "2026-01-29T06:14:39.271793"
+  "last_updated": "2026-01-30T06:15:07.188371"
 }
