@@ -1,25 +1,5 @@
 {
   "articles": {
-    "e07a8cff49688ed66b141fe4b8ab570e": {
-      "title_preview": "Beyond Automation: How Agentic AI Could Transform Oil and Gas Workflows - Societ",
-      "date_sent": "2026-01-01T06:06:09.454021"
-    },
-    "6f51759b771d2a468346f6c1ea7e7241": {
-      "title_preview": "Digital Transformation Market in Oil & Gas to Grow by USD 56.4 Billion from 2025",
-      "date_sent": "2026-01-01T06:06:09.454021"
-    },
-    "a6f88289f8f408d93a93c4a905036685": {
-      "title_preview": "Oil and gas in the AI era - IBM",
-      "date_sent": "2026-01-01T06:06:09.454021"
-    },
-    "bae6d14eae1e8c5a5a518ccd547e0be2": {
-      "title_preview": "Oil and gas industry players embracing AI and other tech - The Globe and Mail",
-      "date_sent": "2026-01-01T06:06:09.454021"
-    },
-    "8f8ef91484e9facfeffc363d934fea28": {
-      "title_preview": "How AI And Technology Are Reshaping The Oil And Gas Workforce - Forbes",
-      "date_sent": "2026-01-01T06:06:09.454021"
-    },
     "8a539b362dfd3fde1f81f016d8c04a1c": {
       "title_preview": "Deep-Learning Technique Optimizes Sequestration, Oil Production in CCUS Projects",
       "date_sent": "2026-01-02T06:06:31.586564"
@@ -455,7 +435,27 @@
     "edbbf13938765b0976a56e0cdd52af7b": {
       "title_preview": "AI Aids Detection and Understanding of Oil Spills - SPE",
       "date_sent": "2026-01-30T06:15:07.188294"
+    },
+    "237db7621a96f815cbd14715f0358b91": {
+      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
+      "date_sent": "2026-01-31T06:10:05.722990"
+    },
+    "046e6f5bae71d9fa1b2a91a96839e625": {
+      "title_preview": "Kongsberg Digital and Petroleum Development Oman Ink Deal To Deploy AI-Based Dig",
+      "date_sent": "2026-01-31T06:10:05.722990"
+    },
+    "fd5b30cb42f09b0995e0866cab43cf2a": {
+      "title_preview": "Automated oil spill detection using deep learning and SAR satellite data for the",
+      "date_sent": "2026-01-31T06:10:05.722990"
+    },
+    "c485f6145a8fd6fa370c83941d46dd4d": {
+      "title_preview": "Evaluation of hydraulic fracturing using machine learning - Nature",
+      "date_sent": "2026-01-31T06:10:05.722990"
+    },
+    "54b1b1cbb70d9767ade94fc9c4cabb3c": {
+      "title_preview": "Testing a New Deep Learning Model for Petroleum Analysis - Spectroscopy Online",
+      "date_sent": "2026-01-31T06:10:05.722990"
     }
   },
-  "last_updated": "2026-01-30T06:15:07.188371"
+  "last_updated": "2026-01-31T06:10:05.723096"
 }
