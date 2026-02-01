@@ -1,9 +1,9 @@
 name: Daily Petroleum AI News Digest
 
 on:
-  # Run daily at 6:00 AM UTC (8:00 AM Egypt time)
+  # Run weekly on Thursday at 6:00 AM UTC (8:00 AM Egypt time)
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 6 * * 4'
 
   # Allow manual trigger
   workflow_dispatch:
