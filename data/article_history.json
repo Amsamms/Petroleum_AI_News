@@ -1,25 +1,5 @@
 {
   "articles": {
-    "8a539b362dfd3fde1f81f016d8c04a1c": {
-      "title_preview": "Deep-Learning Technique Optimizes Sequestration, Oil Production in CCUS Projects",
-      "date_sent": "2026-01-02T06:06:31.586564"
-    },
-    "f91c2b2c6ec3548cc0643f235c1d5e8c": {
-      "title_preview": "With data science and machine learning applications in subsurface engineering, I",
-      "date_sent": "2026-01-02T06:06:31.586564"
-    },
-    "87c9d6a55b96b9eaea4b4dffde6190e9": {
-      "title_preview": "Navigating innovations for a sustainable future in the downstream sector: The ro",
-      "date_sent": "2026-01-02T06:06:31.586564"
-    },
-    "e947dbf2a295e640ae91a4ad5beef051": {
-      "title_preview": "AI overhauls oil engineering, boosting efficiency - Petroleum Australia",
-      "date_sent": "2026-01-02T06:06:31.586564"
-    },
-    "36ddf98715cb25fc22ddda3fa29c30f9": {
-      "title_preview": "Petroleum Engineers in the Age of AI: Adapt or Become Obsolete? - Society of Pet",
-      "date_sent": "2026-01-02T06:06:31.586564"
-    },
     "dcff7fc1ffc1331af164c4a9780e1720": {
       "title_preview": "AIQ and SLB to Advance Development and Deployment of Agentic AI Solution Across ",
       "date_sent": "2026-01-03T06:05:02.587595"
@@ -455,7 +435,27 @@
     "54b1b1cbb70d9767ade94fc9c4cabb3c": {
       "title_preview": "Testing a New Deep Learning Model for Petroleum Analysis - Spectroscopy Online",
       "date_sent": "2026-01-31T06:10:05.722990"
+    },
+    "c34bf853944f654d4d4c43f4472fa206": {
+      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
+      "date_sent": "2026-02-01T06:17:23.340297"
+    },
+    "e99c77f12cf6547d99b1d41dc8cec421": {
+      "title_preview": "SLB Unveils Groundbreaking New Agentic AI Technology for the Energy Industry - S",
+      "date_sent": "2026-02-01T06:17:23.340297"
+    },
+    "a1baec5111afef76c7fd1ca29294799c": {
+      "title_preview": "Transforming Petroleum Recovery with Advanced AI Technology - Discovery Alert",
+      "date_sent": "2026-02-01T06:17:23.340297"
+    },
+    "85ddac3ef739a1ba2172768ccd22c185": {
+      "title_preview": "How AI drove data optimization for oil and gas capital projects - EY",
+      "date_sent": "2026-02-01T06:17:23.340297"
+    },
+    "d3b615f16e812c028f4cb86fa9d0fb6e": {
+      "title_preview": "Quantum computing and AI are unlocking complex challenges in petrochemical and m",
+      "date_sent": "2026-02-01T06:17:23.340297"
     }
   },
-  "last_updated": "2026-01-31T06:10:05.723096"
+  "last_updated": "2026-02-01T06:17:23.340396"
 }
