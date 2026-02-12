@@ -1,109 +1,5 @@
 {
   "articles": {
-    "265693f22ef421d4ecc5f9ff7858bdd1": {
-      "title_preview": "Artificial Intelligence in Oil and Gas: Benefit, Use Cases, Examples - appinvent",
-      "date_sent": "2026-01-07T06:06:00.827067"
-    },
-    "8d1be069071e3bd7d4f4c5b91b88aae8": {
-      "title_preview": "Chevron transforms oil exploration with ApEX - Inspenet",
-      "date_sent": "2026-01-07T06:06:00.827067"
-    },
-    "afd66336cbe1edaab3d12501dc52ebce": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-07T06:06:00.827067"
-    },
-    "7dbcd3761a1b02ac99ca04e3cb94087e": {
-      "title_preview": "From Conventional Oil Fields To Integrated Energy Hubs: How Technology And AI Ar",
-      "date_sent": "2026-01-08T06:06:14.671708"
-    },
-    "369dca19f1c1b4d3395d6d82027e9fc9": {
-      "title_preview": "Borouge advances toward petrochemical industry\u2019s first AI-driven control room - ",
-      "date_sent": "2026-01-08T06:06:14.671708"
-    },
-    "3021f1ac089c7e8b22aa28f95af9c353": {
-      "title_preview": "The AI advantage: Transforming exploration, production, and refining in oil & ga",
-      "date_sent": "2026-01-08T06:06:14.671708"
-    },
-    "3a53e6a9b6b7c9f69b8437ed1cb9b7dc": {
-      "title_preview": "Smarter Shales: Advancing Niobrara, Mancos, and Mowry Characterization With Phys",
-      "date_sent": "2026-01-08T06:06:14.671708"
-    },
-    "ae59807ab585fc65d74ff51d9c075c70": {
-      "title_preview": "Aramco\u2019s AI Analyzes 93-Year Data to Slash Drilling Costs - \uc870\uc120\uc77c\ubcf4",
-      "date_sent": "2026-01-08T06:06:14.671708"
-    },
-    "9aba8638c604506931cbf848c0e9be1a": {
-      "title_preview": "Borouge advances AI operations at Ruwais facility - Hydrocarbon Engineering",
-      "date_sent": "2026-01-09T06:06:10.084711"
-    },
-    "58ae3e912e7adb139226be85abcc2cd8": {
-      "title_preview": "The Petrochemical Downturn: AI as a Crisis Navigator - ICIS",
-      "date_sent": "2026-01-09T06:06:10.084711"
-    },
-    "0a19b29f7572e3d8d5c0fc7294a7baaa": {
-      "title_preview": "Prediction of Poisson\u2019s ratio for a petroleum engineering application: Machine l",
-      "date_sent": "2026-01-09T06:06:10.084711"
-    },
-    "e366d520e17e6bfb5da50e10a60f234c": {
-      "title_preview": "Oil and gas networks need a power boost for AI, HPC and quantum threats - Nokia",
-      "date_sent": "2026-01-09T06:06:10.084711"
-    },
-    "afbc77676e2b089838551f8cfa449a63": {
-      "title_preview": "Devon Energy: An Oil Company With An AI Obsession - Seeking Alpha",
-      "date_sent": "2026-01-09T06:06:10.084711"
-    },
-    "a92c5270b7ca2512dee72d935b92cb05": {
-      "title_preview": "AI Could Lift the Oil Industry\u2019s Profits. It\u2019s Happening in the Permian Basin. -",
-      "date_sent": "2026-01-10T06:04:59.572261"
-    },
-    "0806550858926ae671a760d59ad21098": {
-      "title_preview": "AI innovator, Ahmed Adeyemi transforms energy industry - Businessday NG",
-      "date_sent": "2026-01-10T06:04:59.572261"
-    },
-    "62a44dbde4a38537251f3982cbbb0657": {
-      "title_preview": "Which Oil and Gas Stocks Are Best Positioned for AI Adoption - Zacks Investment ",
-      "date_sent": "2026-01-10T06:04:59.572261"
-    },
-    "45372625fee02f24abc6522163bad054": {
-      "title_preview": "Oilfield giants pivot to booming AI infrastructure as drilling demand wanes - Re",
-      "date_sent": "2026-01-11T06:05:15.533925"
-    },
-    "2179f431321fa2e45444a9fa9e322989": {
-      "title_preview": "Artificial Intelligence Transforms Mineral Exploration Methods in 2026 - Discove",
-      "date_sent": "2026-01-11T06:05:15.533925"
-    },
-    "a11eae7ba15c5a84750cc69c6500500c": {
-      "title_preview": "Application of machine learning and deep learning in geothermal resource develop",
-      "date_sent": "2026-01-11T06:05:15.533925"
-    },
-    "d390bb22ea2a70a7d78f902a60473950": {
-      "title_preview": "Artificial Intelligence - Shell Global",
-      "date_sent": "2026-01-12T06:06:56.796093"
-    },
-    "5f1ef9e2967ff4878991d1a9855e1aba": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-12T06:06:56.796093"
-    },
-    "e18633c861c200cb354933e7a4afa1db": {
-      "title_preview": "5 ways bp uses AI and other tech to drive performance - BP",
-      "date_sent": "2026-01-12T06:06:56.796093"
-    },
-    "a83f5e4e3e84ff37559bb13306613082": {
-      "title_preview": "The roughneck is slowly disappearing from the oilfield as AI and automation take",
-      "date_sent": "2026-01-13T06:05:57.942751"
-    },
-    "ec0a0f8c89e14bd268a44d2a28566667": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-13T06:05:57.942751"
-    },
-    "853805fd5aa1ee849379a7a20da712a4": {
-      "title_preview": "AI in Oil Refinery: Smarter Refineries with AI - Energies Media",
-      "date_sent": "2026-01-13T06:05:57.942751"
-    },
-    "e98ff5e137e07a4f919514388a54f733": {
-      "title_preview": "The rise of AI and advanced analytics - Hydrocarbon Engineering",
-      "date_sent": "2026-01-13T06:05:57.942751"
-    },
     "8895a50eb6c101cf7fdcaf0c6a090b50": {
       "title_preview": "AI in Energy, Resources, and Industrials - Deloitte",
       "date_sent": "2026-01-14T06:06:18.343809"
@@ -399,7 +295,27 @@
     "6a9d11be4ddc92d754d318c97405c4ef": {
       "title_preview": "How AI is Transforming Oil and Gas Exploration - AZoMining",
       "date_sent": "2026-02-05T06:19:50.037159"
+    },
+    "88a6aa9aca7880329e6a700a743a167f": {
+      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
+      "date_sent": "2026-02-12T06:23:35.467136"
+    },
+    "8f45c3782a887fb40d8edb9a164fb8a4": {
+      "title_preview": "Deep-Learning Technique Optimizes Sequestration, Oil Production in CCUS Projects",
+      "date_sent": "2026-02-12T06:23:35.467136"
+    },
+    "e88cb8a08a41bdbeabf9bbd1a9fa75f7": {
+      "title_preview": "Every last drop: AI-powered analysis reveals oil industry's trillion-barrel oppo",
+      "date_sent": "2026-02-12T06:23:35.467136"
+    },
+    "58ae3e912e7adb139226be85abcc2cd8": {
+      "title_preview": "The Petrochemical Downturn: AI as a Crisis Navigator - ICIS",
+      "date_sent": "2026-02-12T06:23:35.467136"
+    },
+    "9e5d9f71a4bb4e6f2469382f7bc9eb78": {
+      "title_preview": "AI Adoption in Midstream Oil and Gas Infrastructure | Pipeline - openPR.com",
+      "date_sent": "2026-02-12T06:23:35.467136"
     }
   },
-  "last_updated": "2026-02-05T06:19:50.037243"
+  "last_updated": "2026-02-12T06:23:35.467227"
 }
