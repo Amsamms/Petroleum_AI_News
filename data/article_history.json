@@ -1,88 +1,8 @@
 {
   "articles": {
-    "02403144e97672482988b90c1f4ba613": {
-      "title_preview": "Collide Secures $5M to Scale First GenAI Platform for Energy Sector",
-      "date_sent": "2026-01-21T06:06:46.469391"
-    },
-    "87e66ae0873996ff0ad7647efd47100c": {
-      "title_preview": "Quantum computing and AI are unlocking complex challenges in petrochemical and m",
-      "date_sent": "2026-01-21T06:06:46.469391"
-    },
     "fc1d8730443bcf42514e43defe447c42": {
       "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
       "date_sent": "2026-01-28T06:07:18.628910"
-    },
-    "326382c0f5fc012ebb3c1fae81b58afa": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-22T06:06:16.202367"
-    },
-    "e1604d15e10474b9d04a3bf80bda5e05": {
-      "title_preview": "Quantum computing and AI are unlocking complex challenges in petrochemical and m",
-      "date_sent": "2026-01-22T06:06:16.202367"
-    },
-    "291a3f7cb16cd8ad0655e84eb5a3b73c": {
-      "title_preview": "Honeywell & Borouge Launch AI-Powered Autonomous Petrochemical Operations in UAE",
-      "date_sent": "2026-01-23T06:06:08.172430"
-    },
-    "8e8d39222f75dfa301bd1b055c8e8d29": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-23T06:06:08.172430"
-    },
-    "ac61584b3589b638d623d8558db35335": {
-      "title_preview": "Japan's Eneos to adopt AI for failure prevention at refineries - Nikkei Asia",
-      "date_sent": "2026-01-23T06:06:08.172430"
-    },
-    "de4122f801416ec636a5aa5fa740b1ea": {
-      "title_preview": "Univation Technologies and C3 AI Collaborate to Deliver Enterprise AI Solutions ",
-      "date_sent": "2026-01-23T06:06:08.172430"
-    },
-    "ad45d389bf32df28acfe4a3bad9c9367": {
-      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
-      "date_sent": "2026-01-23T06:06:08.172430"
-    },
-    "708fa2542f96fcf284705c9a93bba7e3": {
-      "title_preview": "C3.ai (AI) and Univation Strike AI Deal for Advanced Predictive Maintenance Acro",
-      "date_sent": "2026-01-25T06:05:49.634979"
-    },
-    "33dad64de02588c56ee601d1bc69ff3e": {
-      "title_preview": "Refining Intelligence: Transforming Operations with AI",
-      "date_sent": "2026-01-25T06:05:49.634979"
-    },
-    "23880276f5dce4744581a7c414e5e8fe": {
-      "title_preview": "ExxonMobil\u2019s AI Strategy: Analysis of Sustained Dominance in AI Energy",
-      "date_sent": "2026-01-24T06:05:11.036992"
-    },
-    "890857a9b6f7f105bd03063578153629": {
-      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
-      "date_sent": "2026-01-24T06:05:11.036992"
-    },
-    "0acd129a5b9782e5d18ceaddba41b75d": {
-      "title_preview": "Kongsberg Digital and Petroleum Development Oman Sign Agreement for Deployment o",
-      "date_sent": "2026-01-25T06:05:49.634979"
-    },
-    "ef16d4e75f0d74db9c269480da20b93d": {
-      "title_preview": "Here's how AI could unleash a trillion more barrels of oil",
-      "date_sent": "2026-01-25T06:05:49.634979"
-    },
-    "8b3618be386e2a78945a8aca8df9fdaa": {
-      "title_preview": "Here's how AI could unleash a trillion more barrels of oil - Axios",
-      "date_sent": "2026-01-27T06:06:26.749416"
-    },
-    "b27b7ba68a5789bff31cb584db502fc4": {
-      "title_preview": "Kongsberg Digital and Petroleum Development Oman Sign Agreement for Deployment o",
-      "date_sent": "2026-01-27T06:06:26.749416"
-    },
-    "0ec4813b363b08fc3a962f53f6e4d776": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-27T06:06:26.749416"
-    },
-    "646c27e213498090fb399fdd25cade0a": {
-      "title_preview": "C3.ai (AI) and Univation Strike AI Deal for Advanced Predictive Maintenance Acro",
-      "date_sent": "2026-01-27T06:06:26.749416"
-    },
-    "5376f587f5c792a5030e102a429d356f": {
-      "title_preview": "Refining Intelligence: Transforming Operations with AI - chemengonline.com",
-      "date_sent": "2026-01-27T06:06:26.749416"
     },
     "07b0bd1a1a7ec32deaf093dc9a548b7a": {
       "title_preview": "Preem partners with Imubit for closed-loop AI optimization at Lysekil refinery",
@@ -235,7 +155,27 @@
     "3d14f44689e144cef55f2b84537072f7": {
       "title_preview": "Top 10 AI tools driving innovation in oil and gas operations - Energy, Oil & Gas",
       "date_sent": "2026-02-19T06:22:09.743635"
+    },
+    "291a3f7cb16cd8ad0655e84eb5a3b73c": {
+      "title_preview": "Honeywell & Borouge Launch AI-Powered Autonomous Petrochemical Operations in UAE",
+      "date_sent": "2026-02-26T06:21:10.141952"
+    },
+    "ac61584b3589b638d623d8558db35335": {
+      "title_preview": "Japan's Eneos to adopt AI for failure prevention at refineries - Nikkei Asia",
+      "date_sent": "2026-02-26T06:21:10.141952"
+    },
+    "de4122f801416ec636a5aa5fa740b1ea": {
+      "title_preview": "Univation Technologies and C3 AI Collaborate to Deliver Enterprise AI Solutions ",
+      "date_sent": "2026-02-26T06:21:10.141952"
+    },
+    "ad45d389bf32df28acfe4a3bad9c9367": {
+      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
+      "date_sent": "2026-02-26T06:21:10.141952"
+    },
+    "0a22e45f5747fa2491584911462fab07": {
+      "title_preview": "Reservoir parameter prediction technology based on deep learning and its applica",
+      "date_sent": "2026-02-26T06:21:10.141952"
     }
   },
-  "last_updated": "2026-02-19T06:22:09.743742"
+  "last_updated": "2026-02-26T06:21:10.142037"
 }
