@@ -1,101 +1,5 @@
 {
   "articles": {
-    "fc1d8730443bcf42514e43defe447c42": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-28T06:07:18.628910"
-    },
-    "07b0bd1a1a7ec32deaf093dc9a548b7a": {
-      "title_preview": "Preem partners with Imubit for closed-loop AI optimization at Lysekil refinery",
-      "date_sent": "2026-01-29T06:14:39.271698"
-    },
-    "e9b8b1f7954fb0cc4438224258957f04": {
-      "title_preview": "A smarter way to prospect for oil and gas - Chevron",
-      "date_sent": "2026-01-28T06:07:18.628910"
-    },
-    "5a843081207d85f96e06b0b98184a7c1": {
-      "title_preview": "Cognite partners with Snowflake to scale industrial AI for oil and gas",
-      "date_sent": "2026-01-28T06:07:18.628910"
-    },
-    "7c60c299ef6d8c5d6bcbdaa1e5fdd6ec": {
-      "title_preview": "Smarter Shales: Advancing Niobrara, Mancos, and Mowry Characterization With Phys",
-      "date_sent": "2026-01-28T06:07:18.628910"
-    },
-    "2a5a56fa692b215d31040b7d1792f9f8": {
-      "title_preview": "Superintelligence for oil refineries: Meet the British startup making fossil fue",
-      "date_sent": "2026-01-29T06:14:39.271698"
-    },
-    "b6af231f65a4d1bf1b8a13ad5788ded2": {
-      "title_preview": "AI enhanced model predictive control for optimizing LPG recovery through integra",
-      "date_sent": "2026-01-29T06:14:39.271698"
-    },
-    "6a459faf4d37ed081dc3c0f00e34066b": {
-      "title_preview": "Smarter Shales: Advancing Niobrara, Mancos, and Mowry Characterization With Phys",
-      "date_sent": "2026-01-29T06:14:39.271698"
-    },
-    "9582dce9e1bdac1b3ab2d7dbc28bb893": {
-      "title_preview": "Cognite partners with Snowflake to scale industrial AI for oil and gas - World O",
-      "date_sent": "2026-01-29T06:14:39.271698"
-    },
-    "210d8d4bed7d1571dd937620b1b66cb8": {
-      "title_preview": "Preem partners with Imubit for closed-loop AI optimization at Lysekil refinery -",
-      "date_sent": "2026-01-30T06:15:07.188294"
-    },
-    "4ec17ca523978f842c5c4e68bf5721bf": {
-      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
-      "date_sent": "2026-01-30T06:15:07.188294"
-    },
-    "f8f2dcb6c454e9b6333f606755cf961f": {
-      "title_preview": "5 ways bp uses AI and other tech to drive performance | News and stories | bp Am",
-      "date_sent": "2026-01-30T06:15:07.188294"
-    },
-    "c82c40e1625ac66d59e2cfb82a7933f4": {
-      "title_preview": "Formation permeability estimation using mud loss data by deep learning - Nature",
-      "date_sent": "2026-01-30T06:15:07.188294"
-    },
-    "edbbf13938765b0976a56e0cdd52af7b": {
-      "title_preview": "AI Aids Detection and Understanding of Oil Spills - SPE",
-      "date_sent": "2026-01-30T06:15:07.188294"
-    },
-    "237db7621a96f815cbd14715f0358b91": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-01-31T06:10:05.722990"
-    },
-    "046e6f5bae71d9fa1b2a91a96839e625": {
-      "title_preview": "Kongsberg Digital and Petroleum Development Oman Ink Deal To Deploy AI-Based Dig",
-      "date_sent": "2026-01-31T06:10:05.722990"
-    },
-    "fd5b30cb42f09b0995e0866cab43cf2a": {
-      "title_preview": "Automated oil spill detection using deep learning and SAR satellite data for the",
-      "date_sent": "2026-01-31T06:10:05.722990"
-    },
-    "c485f6145a8fd6fa370c83941d46dd4d": {
-      "title_preview": "Evaluation of hydraulic fracturing using machine learning - Nature",
-      "date_sent": "2026-01-31T06:10:05.722990"
-    },
-    "54b1b1cbb70d9767ade94fc9c4cabb3c": {
-      "title_preview": "Testing a New Deep Learning Model for Petroleum Analysis - Spectroscopy Online",
-      "date_sent": "2026-01-31T06:10:05.722990"
-    },
-    "c34bf853944f654d4d4c43f4472fa206": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-02-01T06:17:23.340297"
-    },
-    "e99c77f12cf6547d99b1d41dc8cec421": {
-      "title_preview": "SLB Unveils Groundbreaking New Agentic AI Technology for the Energy Industry - S",
-      "date_sent": "2026-02-01T06:17:23.340297"
-    },
-    "a1baec5111afef76c7fd1ca29294799c": {
-      "title_preview": "Transforming Petroleum Recovery with Advanced AI Technology - Discovery Alert",
-      "date_sent": "2026-02-01T06:17:23.340297"
-    },
-    "85ddac3ef739a1ba2172768ccd22c185": {
-      "title_preview": "How AI drove data optimization for oil and gas capital projects - EY",
-      "date_sent": "2026-02-01T06:17:23.340297"
-    },
-    "d3b615f16e812c028f4cb86fa9d0fb6e": {
-      "title_preview": "Quantum computing and AI are unlocking complex challenges in petrochemical and m",
-      "date_sent": "2026-02-01T06:17:23.340297"
-    },
     "8937b5b8fed34b1cd1e66622204e5b26": {
       "title_preview": "Kongsberg Digital and Petroleum Development Oman Ink Deal To Deploy AI-Based Dig",
       "date_sent": "2026-02-05T06:19:50.037159"
@@ -175,7 +79,27 @@
     "0a22e45f5747fa2491584911462fab07": {
       "title_preview": "Reservoir parameter prediction technology based on deep learning and its applica",
       "date_sent": "2026-02-26T06:21:10.141952"
+    },
+    "8c59959519c302a0c6aa553024d96e55": {
+      "title_preview": "Honeywell and Borouge Launch AI-Powered Autonomous Petrochemical Operations in U",
+      "date_sent": "2026-03-05T06:16:22.983941"
+    },
+    "acb5292cb609ace1eec7f19b6192d6cc": {
+      "title_preview": "Superintelligence for oil refineries: Meet the British startup making fossil fue",
+      "date_sent": "2026-03-05T06:16:22.983941"
+    },
+    "e99c77f12cf6547d99b1d41dc8cec421": {
+      "title_preview": "SLB Unveils Groundbreaking New Agentic AI Technology for the Energy Industry - S",
+      "date_sent": "2026-03-05T06:16:22.983941"
+    },
+    "8b3618be386e2a78945a8aca8df9fdaa": {
+      "title_preview": "Here's how AI could unleash a trillion more barrels of oil - Axios",
+      "date_sent": "2026-03-05T06:16:22.983941"
+    },
+    "4ec17ca523978f842c5c4e68bf5721bf": {
+      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
+      "date_sent": "2026-03-05T06:16:22.983941"
     }
   },
-  "last_updated": "2026-02-26T06:21:10.142037"
+  "last_updated": "2026-03-05T06:16:22.984049"
 }
