@@ -1,25 +1,5 @@
 {
   "articles": {
-    "8937b5b8fed34b1cd1e66622204e5b26": {
-      "title_preview": "Kongsberg Digital and Petroleum Development Oman Ink Deal To Deploy AI-Based Dig",
-      "date_sent": "2026-02-05T06:19:50.037159"
-    },
-    "db6e170deb6765c101245fb0fc060d69": {
-      "title_preview": "New Polymer Membranes, AI Predictions Could Dramatically Reduce Energy, Water Us",
-      "date_sent": "2026-02-05T06:19:50.037159"
-    },
-    "8a539b362dfd3fde1f81f016d8c04a1c": {
-      "title_preview": "Deep-Learning Technique Optimizes Sequestration, Oil Production in CCUS Projects",
-      "date_sent": "2026-02-05T06:19:50.037159"
-    },
-    "d1d3ab06030a9fa7b4ea6802d86c2c49": {
-      "title_preview": "The power of AI in petrochemical operations - Hydrocarbon Engineering",
-      "date_sent": "2026-02-05T06:19:50.037159"
-    },
-    "6a9d11be4ddc92d754d318c97405c4ef": {
-      "title_preview": "How AI is Transforming Oil and Gas Exploration - AZoMining",
-      "date_sent": "2026-02-05T06:19:50.037159"
-    },
     "88a6aa9aca7880329e6a700a743a167f": {
       "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
       "date_sent": "2026-02-12T06:23:35.467136"
@@ -99,7 +79,27 @@
     "4ec17ca523978f842c5c4e68bf5721bf": {
       "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
       "date_sent": "2026-03-05T06:16:22.983941"
+    },
+    "ae363a08ae404e80c118b562afbfeef0": {
+      "title_preview": "Borouge to test AI-powered autonomous petrochemicals operations in UAE - Robotic",
+      "date_sent": "2026-03-12T06:17:17.933228"
+    },
+    "56827e233b738279fc97a8581739414f": {
+      "title_preview": "Exclusive / Ex-Google exec launches AI firm for oil refineries - Semafor",
+      "date_sent": "2026-03-12T06:17:17.933228"
+    },
+    "3a53e6a9b6b7c9f69b8437ed1cb9b7dc": {
+      "title_preview": "Smarter Shales: Advancing Niobrara, Mancos, and Mowry Characterization With Phys",
+      "date_sent": "2026-03-12T06:17:17.933228"
+    },
+    "e18633c861c200cb354933e7a4afa1db": {
+      "title_preview": "5 ways bp uses AI and other tech to drive performance - BP",
+      "date_sent": "2026-03-12T06:17:17.933228"
+    },
+    "0fd1d2ae6425821dad1cf1949e094e97": {
+      "title_preview": "How Smart Technology in Oil and Gas Industry Cuts Refinery Costs by 40% - Energi",
+      "date_sent": "2026-03-12T06:17:17.933228"
     }
   },
-  "last_updated": "2026-03-05T06:16:22.984049"
+  "last_updated": "2026-03-12T06:17:17.933306"
 }
