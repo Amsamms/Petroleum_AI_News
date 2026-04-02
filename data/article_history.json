@@ -1,25 +1,5 @@
 {
   "articles": {
-    "291a3f7cb16cd8ad0655e84eb5a3b73c": {
-      "title_preview": "Honeywell & Borouge Launch AI-Powered Autonomous Petrochemical Operations in UAE",
-      "date_sent": "2026-02-26T06:21:10.141952"
-    },
-    "ac61584b3589b638d623d8558db35335": {
-      "title_preview": "Japan's Eneos to adopt AI for failure prevention at refineries - Nikkei Asia",
-      "date_sent": "2026-02-26T06:21:10.141952"
-    },
-    "de4122f801416ec636a5aa5fa740b1ea": {
-      "title_preview": "Univation Technologies and C3 AI Collaborate to Deliver Enterprise AI Solutions ",
-      "date_sent": "2026-02-26T06:21:10.141952"
-    },
-    "ad45d389bf32df28acfe4a3bad9c9367": {
-      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
-      "date_sent": "2026-02-26T06:21:10.141952"
-    },
-    "0a22e45f5747fa2491584911462fab07": {
-      "title_preview": "Reservoir parameter prediction technology based on deep learning and its applica",
-      "date_sent": "2026-02-26T06:21:10.141952"
-    },
     "8c59959519c302a0c6aa553024d96e55": {
       "title_preview": "Honeywell and Borouge Launch AI-Powered Autonomous Petrochemical Operations in U",
       "date_sent": "2026-03-05T06:16:22.983941"
@@ -99,7 +79,27 @@
     "effbc341aa697f3fc1b82a64479e8034": {
       "title_preview": "Singapore\u2011Based WPH Digital Among the First AI\u2011Focused Digital Companies in Asia",
       "date_sent": "2026-03-26T06:25:05.121164"
+    },
+    "291a3f7cb16cd8ad0655e84eb5a3b73c": {
+      "title_preview": "Honeywell & Borouge Launch AI-Powered Autonomous Petrochemical Operations in UAE",
+      "date_sent": "2026-04-02T06:25:53.175585"
+    },
+    "d919bcc29c730282d04e96260450b276": {
+      "title_preview": "Integrating physics and machine learning for unified seismic forward modeling an",
+      "date_sent": "2026-04-02T06:25:53.175585"
+    },
+    "ad45d389bf32df28acfe4a3bad9c9367": {
+      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
+      "date_sent": "2026-04-02T06:25:53.175585"
+    },
+    "853805fd5aa1ee849379a7a20da712a4": {
+      "title_preview": "AI in Oil Refinery: Smarter Refineries with AI - Energies Media",
+      "date_sent": "2026-04-02T06:25:53.175585"
+    },
+    "8a539b362dfd3fde1f81f016d8c04a1c": {
+      "title_preview": "Deep-Learning Technique Optimizes Sequestration, Oil Production in CCUS Projects",
+      "date_sent": "2026-04-02T06:25:53.175585"
     }
   },
-  "last_updated": "2026-03-26T06:25:05.121271"
+  "last_updated": "2026-04-02T06:25:53.175677"
 }
