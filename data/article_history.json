@@ -1,25 +1,5 @@
 {
   "articles": {
-    "8c59959519c302a0c6aa553024d96e55": {
-      "title_preview": "Honeywell and Borouge Launch AI-Powered Autonomous Petrochemical Operations in U",
-      "date_sent": "2026-03-05T06:16:22.983941"
-    },
-    "acb5292cb609ace1eec7f19b6192d6cc": {
-      "title_preview": "Superintelligence for oil refineries: Meet the British startup making fossil fue",
-      "date_sent": "2026-03-05T06:16:22.983941"
-    },
-    "e99c77f12cf6547d99b1d41dc8cec421": {
-      "title_preview": "SLB Unveils Groundbreaking New Agentic AI Technology for the Energy Industry - S",
-      "date_sent": "2026-03-05T06:16:22.983941"
-    },
-    "8b3618be386e2a78945a8aca8df9fdaa": {
-      "title_preview": "Here's how AI could unleash a trillion more barrels of oil - Axios",
-      "date_sent": "2026-03-05T06:16:22.983941"
-    },
-    "4ec17ca523978f842c5c4e68bf5721bf": {
-      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
-      "date_sent": "2026-03-05T06:16:22.983941"
-    },
     "ae363a08ae404e80c118b562afbfeef0": {
       "title_preview": "Borouge to test AI-powered autonomous petrochemicals operations in UAE - Robotic",
       "date_sent": "2026-03-12T06:17:17.933228"
@@ -62,7 +42,7 @@
     },
     "fc1d8730443bcf42514e43defe447c42": {
       "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-03-26T06:25:05.121164"
+      "date_sent": "2026-04-09T06:33:53.159777"
     },
     "a85464cb2f7a9bc335b89977a6504eaf": {
       "title_preview": "Marathon, CPChem, Big West leverage AI to boost speed and reliability",
@@ -70,11 +50,11 @@
     },
     "7afeea2c9584232c3b666249cdf36ca2": {
       "title_preview": "Deep-Learning Technique Optimizes Sequestration, Oil Production in CCUS Projects",
-      "date_sent": "2026-03-26T06:25:05.121164"
+      "date_sent": "2026-04-09T06:33:53.159777"
     },
     "2f9ce983c6a697d0d131e52ecffa703c": {
       "title_preview": "Geological information-driven deep learning for lithology identification from we",
-      "date_sent": "2026-03-26T06:25:05.121164"
+      "date_sent": "2026-04-09T06:33:53.159777"
     },
     "effbc341aa697f3fc1b82a64479e8034": {
       "title_preview": "Singapore\u2011Based WPH Digital Among the First AI\u2011Focused Digital Companies in Asia",
@@ -99,7 +79,15 @@
     "8a539b362dfd3fde1f81f016d8c04a1c": {
       "title_preview": "Deep-Learning Technique Optimizes Sequestration, Oil Production in CCUS Projects",
       "date_sent": "2026-04-02T06:25:53.175585"
+    },
+    "e261a67f477f81b8ec5ce34ab8cb663e": {
+      "title_preview": "Borouge boosts performance and competitiveness\u2019 with \u2018industry-first\u2019 AI autonom",
+      "date_sent": "2026-04-09T06:33:53.159777"
+    },
+    "77514e0829d292de45b0639e1d974d3b": {
+      "title_preview": "New Polymer Membranes, AI Predictions Could Dramatically Reduce Energy, Water Us",
+      "date_sent": "2026-04-09T06:33:53.159777"
     }
   },
-  "last_updated": "2026-04-02T06:25:53.175677"
+  "last_updated": "2026-04-09T06:33:53.159878"
 }
