@@ -1,25 +1,5 @@
 {
   "articles": {
-    "fc1d8730443bcf42514e43defe447c42": {
-      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
-      "date_sent": "2026-04-09T06:33:53.159777"
-    },
-    "7afeea2c9584232c3b666249cdf36ca2": {
-      "title_preview": "Deep-Learning Technique Optimizes Sequestration, Oil Production in CCUS Projects",
-      "date_sent": "2026-04-09T06:33:53.159777"
-    },
-    "2f9ce983c6a697d0d131e52ecffa703c": {
-      "title_preview": "Geological information-driven deep learning for lithology identification from we",
-      "date_sent": "2026-04-09T06:33:53.159777"
-    },
-    "e261a67f477f81b8ec5ce34ab8cb663e": {
-      "title_preview": "Borouge boosts performance and competitiveness\u2019 with \u2018industry-first\u2019 AI autonom",
-      "date_sent": "2026-04-09T06:33:53.159777"
-    },
-    "77514e0829d292de45b0639e1d974d3b": {
-      "title_preview": "New Polymer Membranes, AI Predictions Could Dramatically Reduce Energy, Water Us",
-      "date_sent": "2026-04-09T06:33:53.159777"
-    },
     "56c7fb4c7833adac57efa21ce8fb4469": {
       "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
       "date_sent": "2026-04-16T06:37:15.657820"
@@ -99,7 +79,27 @@
     "d919bcc29c730282d04e96260450b276": {
       "title_preview": "Integrating physics and machine learning for unified seismic forward modeling an",
       "date_sent": "2026-05-07T06:58:56.331174"
+    },
+    "3be5ef4e27e11ae5a3d5f442fbdcdb91": {
+      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy",
+      "date_sent": "2026-05-14T06:59:29.648711"
+    },
+    "e9d816badddf6c2eb7e00a7a7ea6ece5": {
+      "title_preview": "Sinopec releases China's first industrial AI agent for petrochemical sector",
+      "date_sent": "2026-05-14T06:59:29.648711"
+    },
+    "471b8e7adbf369ecfc40f2f3137cc86d": {
+      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
+      "date_sent": "2026-05-14T06:59:29.648711"
+    },
+    "09b48a34bfb72d6150a3a74f047de9ea": {
+      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
+      "date_sent": "2026-05-14T06:59:29.648711"
+    },
+    "f4e4c553040c384d36269b5584fe8cda": {
+      "title_preview": "Enhancing wellbore stability through machine learning for sustainable hydrocarbo",
+      "date_sent": "2026-05-14T06:59:29.648711"
     }
   },
-  "last_updated": "2026-05-07T06:58:56.331279"
+  "last_updated": "2026-05-14T06:59:29.648803"
 }
