@@ -1,25 +1,5 @@
 {
   "articles": {
-    "56827e233b738279fc97a8581739414f": {
-      "title_preview": "Exclusive / Ex-Google exec launches AI firm for oil refineries - Semafor",
-      "date_sent": "2026-04-23T06:38:09.829065"
-    },
-    "8c25dc943f3ace27439a221f32c00da2": {
-      "title_preview": "AI in Refining & Petrochemical Optimization (Downstream) - openPR.com",
-      "date_sent": "2026-04-23T06:38:09.829065"
-    },
-    "2db3427f225c402b90f393bd13047224": {
-      "title_preview": "The artificial intelligence market within the oil industry is worth billions tod",
-      "date_sent": "2026-04-23T06:38:09.829065"
-    },
-    "d029a5c893d3403e16b453b4364ae127": {
-      "title_preview": "Smarter Shales: Advancing Niobrara, Mancos, and Mowry Characterization With Phys",
-      "date_sent": "2026-04-23T06:38:09.829065"
-    },
-    "e18633c861c200cb354933e7a4afa1db": {
-      "title_preview": "5 ways bp uses AI and other tech to drive performance - BP",
-      "date_sent": "2026-04-23T06:38:09.829065"
-    },
     "3b23ed02d9a5849620f37d15af8097c3": {
       "title_preview": "Emerson and Aramco deploy AI solution aimed at higher refinery yield volume and ",
       "date_sent": "2026-04-30T06:52:07.801898"
@@ -99,7 +79,27 @@
     "ad45d389bf32df28acfe4a3bad9c9367": {
       "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
       "date_sent": "2026-05-21T07:15:47.910821"
+    },
+    "62a0e6309896f2071cc8a6293d344f9f": {
+      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - TechI",
+      "date_sent": "2026-05-28T07:18:20.564060"
+    },
+    "70a0f9e6b4573c1aa474702d2d76e961": {
+      "title_preview": "Case Study: AI-Driven Data Reduces Refinery Maintenance Costs - Automation.com",
+      "date_sent": "2026-05-28T07:18:20.564060"
+    },
+    "a644806a2471781a6109664aada4ab3f": {
+      "title_preview": "ExxonMobil Leveraging AI to Speed Up Guyana Oil Analysis - Offshore Engineer Mag",
+      "date_sent": "2026-05-28T07:18:20.564060"
+    },
+    "de610d5d9cce4d9daedcfeb87481b4fb": {
+      "title_preview": "AI takes on big oil\u2019s dirty water problem in the Permian Basin - Austin American",
+      "date_sent": "2026-05-28T07:18:20.564060"
+    },
+    "eec74a53a4b4930121b0512539e01de5": {
+      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
+      "date_sent": "2026-05-28T07:18:20.564060"
     }
   },
-  "last_updated": "2026-05-21T07:15:47.910916"
+  "last_updated": "2026-05-28T07:18:20.564151"
 }
