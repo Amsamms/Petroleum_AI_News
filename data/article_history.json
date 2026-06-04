@@ -1,25 +1,5 @@
 {
   "articles": {
-    "3b23ed02d9a5849620f37d15af8097c3": {
-      "title_preview": "Emerson and Aramco deploy AI solution aimed at higher refinery yield volume and ",
-      "date_sent": "2026-04-30T06:52:07.801898"
-    },
-    "ac61584b3589b638d623d8558db35335": {
-      "title_preview": "Japan's Eneos to adopt AI for failure prevention at refineries - Nikkei Asia",
-      "date_sent": "2026-04-30T06:52:07.801898"
-    },
-    "eea901daada27c4823e2e85575f703c1": {
-      "title_preview": "The AI-First Refiner: Faster Decisions, Better Margins - Boston Consulting Group",
-      "date_sent": "2026-04-30T06:52:07.801898"
-    },
-    "bcb0226719a38a293c418db8de32194b": {
-      "title_preview": "Marathon, CPChem, Big West leverage AI to boost speed and reliability - BIC Maga",
-      "date_sent": "2026-04-30T06:52:07.801898"
-    },
-    "4ec17ca523978f842c5c4e68bf5721bf": {
-      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
-      "date_sent": "2026-04-30T06:52:07.801898"
-    },
     "58e0a98c722c4041b5adf675556a0c56": {
       "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
       "date_sent": "2026-05-07T06:58:56.331174"
@@ -99,7 +79,27 @@
     "eec74a53a4b4930121b0512539e01de5": {
       "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
       "date_sent": "2026-05-28T07:18:20.564060"
+    },
+    "c012cb22fd5f44433306d45bb8845f94": {
+      "title_preview": "Borouge boosts performance and competitiveness\u2019 with \u2018industry-first\u2019 AI autonom",
+      "date_sent": "2026-06-04T07:36:12.066390"
+    },
+    "cc5fa7d69c0360a8b7004cc46b41e753": {
+      "title_preview": "Aramco Deploys Industrial AI as Strait of Hormuz Crisis Threatens Fuel Supplies ",
+      "date_sent": "2026-06-04T07:36:12.066390"
+    },
+    "eea901daada27c4823e2e85575f703c1": {
+      "title_preview": "The AI-First Refiner: Faster Decisions, Better Margins - Boston Consulting Group",
+      "date_sent": "2026-06-04T07:36:12.066390"
+    },
+    "f02493890f3c43b585a1224a7bfba941": {
+      "title_preview": "In the Permian Basin, AI takes on big oil\u2019s dirty water problem - The Texas Trib",
+      "date_sent": "2026-06-04T07:36:12.066390"
+    },
+    "f84ba5bc88ca27f013b8dee967b23077": {
+      "title_preview": "New episode: AI in oil and gas, use cases in upstream, midstream, downstream - Y",
+      "date_sent": "2026-06-04T07:36:12.066390"
     }
   },
-  "last_updated": "2026-05-28T07:18:20.564151"
+  "last_updated": "2026-06-04T07:36:12.066497"
 }
