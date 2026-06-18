@@ -1,25 +1,5 @@
 {
   "articles": {
-    "3be5ef4e27e11ae5a3d5f442fbdcdb91": {
-      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy",
-      "date_sent": "2026-05-14T06:59:29.648711"
-    },
-    "e9d816badddf6c2eb7e00a7a7ea6ece5": {
-      "title_preview": "Sinopec releases China's first industrial AI agent for petrochemical sector",
-      "date_sent": "2026-05-14T06:59:29.648711"
-    },
-    "471b8e7adbf369ecfc40f2f3137cc86d": {
-      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
-      "date_sent": "2026-05-14T06:59:29.648711"
-    },
-    "09b48a34bfb72d6150a3a74f047de9ea": {
-      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
-      "date_sent": "2026-05-14T06:59:29.648711"
-    },
-    "f4e4c553040c384d36269b5584fe8cda": {
-      "title_preview": "Enhancing wellbore stability through machine learning for sustainable hydrocarbo",
-      "date_sent": "2026-05-14T06:59:29.648711"
-    },
     "8dcc2e10fcec785f37060ea585256196": {
       "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
       "date_sent": "2026-05-21T07:15:47.910821"
@@ -99,7 +79,27 @@
     "e99c77f12cf6547d99b1d41dc8cec421": {
       "title_preview": "SLB Unveils Groundbreaking New Agentic AI Technology for the Energy Industry - S",
       "date_sent": "2026-06-11T07:39:03.912389"
+    },
+    "149a839b099f1f973f9b0dc26592e5e2": {
+      "title_preview": "Emerson and Aramco deploy AI solution aimed at higher refinery yield volume and ",
+      "date_sent": "2026-06-18T07:39:09.640559"
+    },
+    "58e0a98c722c4041b5adf675556a0c56": {
+      "title_preview": "India\u2019s First LC-MAX\u00ae Unit Goes Live with Integrated AI-led Intelligence at HPCL",
+      "date_sent": "2026-06-18T07:39:09.640559"
+    },
+    "54fb26173629e7c71729d3aa95e68427": {
+      "title_preview": "SLB, PDVSA Target AI-Driven Transformation of Venezuela's Oil Industry - Offshor",
+      "date_sent": "2026-06-18T07:39:09.640559"
+    },
+    "d029a5c893d3403e16b453b4364ae127": {
+      "title_preview": "Smarter Shales: Advancing Niobrara, Mancos, and Mowry Characterization With Phys",
+      "date_sent": "2026-06-18T07:39:09.640559"
+    },
+    "4ec17ca523978f842c5c4e68bf5721bf": {
+      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
+      "date_sent": "2026-06-18T07:39:09.640559"
     }
   },
-  "last_updated": "2026-06-11T07:39:03.912480"
+  "last_updated": "2026-06-18T07:39:09.640665"
 }
