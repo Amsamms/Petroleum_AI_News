@@ -1,25 +1,5 @@
 {
   "articles": {
-    "8dcc2e10fcec785f37060ea585256196": {
-      "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
-      "date_sent": "2026-05-21T07:15:47.910821"
-    },
-    "de4122f801416ec636a5aa5fa740b1ea": {
-      "title_preview": "Univation Technologies and C3 AI Collaborate to Deliver Enterprise AI Solutions ",
-      "date_sent": "2026-05-21T07:15:47.910821"
-    },
-    "e9eae6d7121a062d34b1a02478353c1f": {
-      "title_preview": "Enabled emissions: How AI helps to supercharge oil and gas production - Global W",
-      "date_sent": "2026-05-21T07:15:47.910821"
-    },
-    "db6e170deb6765c101245fb0fc060d69": {
-      "title_preview": "New Polymer Membranes, AI Predictions Could Dramatically Reduce Energy, Water Us",
-      "date_sent": "2026-05-21T07:15:47.910821"
-    },
-    "ad45d389bf32df28acfe4a3bad9c9367": {
-      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
-      "date_sent": "2026-05-21T07:15:47.910821"
-    },
     "62a0e6309896f2071cc8a6293d344f9f": {
       "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - TechI",
       "date_sent": "2026-05-28T07:18:20.564060"
@@ -99,7 +79,27 @@
     "4ec17ca523978f842c5c4e68bf5721bf": {
       "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
       "date_sent": "2026-06-18T07:39:09.640559"
+    },
+    "8c59959519c302a0c6aa553024d96e55": {
+      "title_preview": "Honeywell and Borouge Launch AI-Powered Autonomous Petrochemical Operations in U",
+      "date_sent": "2026-06-25T07:10:45.511003"
+    },
+    "3b23ed02d9a5849620f37d15af8097c3": {
+      "title_preview": "Emerson and Aramco deploy AI solution aimed at higher refinery yield volume and ",
+      "date_sent": "2026-06-25T07:10:45.511003"
+    },
+    "53a809464fb08bc1d391f3103864eae7": {
+      "title_preview": "A hybrid simulation-machine learning proxy model for waterflood design optimizat",
+      "date_sent": "2026-06-25T07:10:45.511003"
+    },
+    "a196b60897b20f6fbb0ab36e3a6f970b": {
+      "title_preview": "Enhancing wellbore stability through machine learning for sustainable hydrocarbo",
+      "date_sent": "2026-06-25T07:10:45.511003"
+    },
+    "e18633c861c200cb354933e7a4afa1db": {
+      "title_preview": "5 ways bp uses AI and other tech to drive performance - BP",
+      "date_sent": "2026-06-25T07:10:45.511003"
     }
   },
-  "last_updated": "2026-06-18T07:39:09.640665"
+  "last_updated": "2026-06-25T07:10:45.511089"
 }
