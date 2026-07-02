@@ -1,25 +1,5 @@
 {
   "articles": {
-    "62a0e6309896f2071cc8a6293d344f9f": {
-      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - TechI",
-      "date_sent": "2026-05-28T07:18:20.564060"
-    },
-    "70a0f9e6b4573c1aa474702d2d76e961": {
-      "title_preview": "Case Study: AI-Driven Data Reduces Refinery Maintenance Costs - Automation.com",
-      "date_sent": "2026-05-28T07:18:20.564060"
-    },
-    "a644806a2471781a6109664aada4ab3f": {
-      "title_preview": "ExxonMobil Leveraging AI to Speed Up Guyana Oil Analysis - Offshore Engineer Mag",
-      "date_sent": "2026-05-28T07:18:20.564060"
-    },
-    "de610d5d9cce4d9daedcfeb87481b4fb": {
-      "title_preview": "AI takes on big oil\u2019s dirty water problem in the Permian Basin - Austin American",
-      "date_sent": "2026-05-28T07:18:20.564060"
-    },
-    "eec74a53a4b4930121b0512539e01de5": {
-      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
-      "date_sent": "2026-05-28T07:18:20.564060"
-    },
     "c012cb22fd5f44433306d45bb8845f94": {
       "title_preview": "Borouge boosts performance and competitiveness\u2019 with \u2018industry-first\u2019 AI autonom",
       "date_sent": "2026-06-04T07:36:12.066390"
@@ -99,7 +79,27 @@
     "e18633c861c200cb354933e7a4afa1db": {
       "title_preview": "5 ways bp uses AI and other tech to drive performance - BP",
       "date_sent": "2026-06-25T07:10:45.511003"
+    },
+    "62a0e6309896f2071cc8a6293d344f9f": {
+      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - TechI",
+      "date_sent": "2026-07-02T07:06:42.295391"
+    },
+    "70a0f9e6b4573c1aa474702d2d76e961": {
+      "title_preview": "Case Study: AI-Driven Data Reduces Refinery Maintenance Costs - Automation.com",
+      "date_sent": "2026-07-02T07:06:42.295391"
+    },
+    "db6e170deb6765c101245fb0fc060d69": {
+      "title_preview": "New Polymer Membranes, AI Predictions Could Dramatically Reduce Energy, Water Us",
+      "date_sent": "2026-07-02T07:06:42.295391"
+    },
+    "a18e2962615dd8d01b19fd788a88ded3": {
+      "title_preview": "UAE\u2019s AIQ in Talks to Launch AI Platform for Egypt\u2019s Petroleum Sector - Egypt Oi",
+      "date_sent": "2026-07-02T07:06:42.295391"
+    },
+    "6603fae2ef68061e854300519d3cab21": {
+      "title_preview": "Libya launches initiative to integrate AI into oil and gas sector - The Libya Ob",
+      "date_sent": "2026-07-02T07:06:42.295391"
     }
   },
-  "last_updated": "2026-06-25T07:10:45.511089"
+  "last_updated": "2026-07-02T07:06:42.295496"
 }
