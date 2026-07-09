@@ -1,25 +1,5 @@
 {
   "articles": {
-    "c012cb22fd5f44433306d45bb8845f94": {
-      "title_preview": "Borouge boosts performance and competitiveness\u2019 with \u2018industry-first\u2019 AI autonom",
-      "date_sent": "2026-06-04T07:36:12.066390"
-    },
-    "cc5fa7d69c0360a8b7004cc46b41e753": {
-      "title_preview": "Aramco Deploys Industrial AI as Strait of Hormuz Crisis Threatens Fuel Supplies ",
-      "date_sent": "2026-06-04T07:36:12.066390"
-    },
-    "eea901daada27c4823e2e85575f703c1": {
-      "title_preview": "The AI-First Refiner: Faster Decisions, Better Margins - Boston Consulting Group",
-      "date_sent": "2026-06-04T07:36:12.066390"
-    },
-    "f02493890f3c43b585a1224a7bfba941": {
-      "title_preview": "In the Permian Basin, AI takes on big oil\u2019s dirty water problem - The Texas Trib",
-      "date_sent": "2026-06-04T07:36:12.066390"
-    },
-    "f84ba5bc88ca27f013b8dee967b23077": {
-      "title_preview": "New episode: AI in oil and gas, use cases in upstream, midstream, downstream - Y",
-      "date_sent": "2026-06-04T07:36:12.066390"
-    },
     "2bccde73d74fcecae7d983facc314ed4": {
       "title_preview": "Aramco and Microsoft Deepen Industrial AI Push in Saudi Arabia - Crude Oil Price",
       "date_sent": "2026-06-11T07:39:03.912389"
@@ -99,7 +79,27 @@
     "6603fae2ef68061e854300519d3cab21": {
       "title_preview": "Libya launches initiative to integrate AI into oil and gas sector - The Libya Ob",
       "date_sent": "2026-07-02T07:06:42.295391"
+    },
+    "bcdedd17d4ebecebcec0a3aa76ec1e3c": {
+      "title_preview": "ADNOC Delivers First AI-Enabled Walking Island Rig - JPT Homepage",
+      "date_sent": "2026-07-09T09:26:11.936942"
+    },
+    "80e1ceae87a437aa9e54ed64709c1d54": {
+      "title_preview": "Emerson and Aramco Deploy AI Solution Aimed at Higher Refinery Yield Volume and ",
+      "date_sent": "2026-07-09T09:26:11.936942"
+    },
+    "bcb0226719a38a293c418db8de32194b": {
+      "title_preview": "Marathon, CPChem, Big West leverage AI to boost speed and reliability - BIC Maga",
+      "date_sent": "2026-07-09T09:26:11.936942"
+    },
+    "fa7f772ca24c4624cb0a128aeb018cb3": {
+      "title_preview": "New episode: AI in oil and gas, use cases in upstream, midstream, downstream - M",
+      "date_sent": "2026-07-09T09:26:11.936942"
+    },
+    "a678e629ca14264ae9f1629bab45671f": {
+      "title_preview": "Amid global oil volatility: MIT-WPU develops AI models to boost recovery, foreca",
+      "date_sent": "2026-07-09T09:26:11.936942"
     }
   },
-  "last_updated": "2026-07-02T07:06:42.295496"
+  "last_updated": "2026-07-09T09:26:11.937038"
 }
