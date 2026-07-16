@@ -1,25 +1,5 @@
 {
   "articles": {
-    "2bccde73d74fcecae7d983facc314ed4": {
-      "title_preview": "Aramco and Microsoft Deepen Industrial AI Push in Saudi Arabia - Crude Oil Price",
-      "date_sent": "2026-06-11T07:39:03.912389"
-    },
-    "56827e233b738279fc97a8581739414f": {
-      "title_preview": "Exclusive / Ex-Google exec launches AI firm for oil refineries - Semafor",
-      "date_sent": "2026-06-11T07:39:03.912389"
-    },
-    "f8f2dcb6c454e9b6333f606755cf961f": {
-      "title_preview": "5 ways bp uses AI and other tech to drive performance | News and stories | bp Am",
-      "date_sent": "2026-06-11T07:39:03.912389"
-    },
-    "82633c27226acb66f779b33143403d4e": {
-      "title_preview": "How AI and digital intelligence is driving refining resilience - Energy Connects",
-      "date_sent": "2026-06-11T07:39:03.912389"
-    },
-    "e99c77f12cf6547d99b1d41dc8cec421": {
-      "title_preview": "SLB Unveils Groundbreaking New Agentic AI Technology for the Energy Industry - S",
-      "date_sent": "2026-06-11T07:39:03.912389"
-    },
     "149a839b099f1f973f9b0dc26592e5e2": {
       "title_preview": "Emerson and Aramco deploy AI solution aimed at higher refinery yield volume and ",
       "date_sent": "2026-06-18T07:39:09.640559"
@@ -99,7 +79,27 @@
     "a678e629ca14264ae9f1629bab45671f": {
       "title_preview": "Amid global oil volatility: MIT-WPU develops AI models to boost recovery, foreca",
       "date_sent": "2026-07-09T09:26:11.936942"
+    },
+    "8dcc2e10fcec785f37060ea585256196": {
+      "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
+      "date_sent": "2026-07-16T08:01:40.433287"
+    },
+    "eea901daada27c4823e2e85575f703c1": {
+      "title_preview": "The AI-First Refiner: Faster Decisions, Better Margins - Boston Consulting Group",
+      "date_sent": "2026-07-16T08:01:40.433287"
+    },
+    "56827e233b738279fc97a8581739414f": {
+      "title_preview": "Exclusive / Ex-Google exec launches AI firm for oil refineries - Semafor",
+      "date_sent": "2026-07-16T08:01:40.433287"
+    },
+    "eec74a53a4b4930121b0512539e01de5": {
+      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
+      "date_sent": "2026-07-16T08:01:40.433287"
+    },
+    "6bbeb928de70c869dd9f38122cdf3294": {
+      "title_preview": "New episode: AI in oil and gas, use cases in upstream, midstream, downstream - P",
+      "date_sent": "2026-07-16T08:01:40.433287"
     }
   },
-  "last_updated": "2026-07-09T09:26:11.937038"
+  "last_updated": "2026-07-16T08:01:40.433375"
 }
