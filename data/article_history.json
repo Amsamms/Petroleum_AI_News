@@ -1,25 +1,5 @@
 {
   "articles": {
-    "bcdedd17d4ebecebcec0a3aa76ec1e3c": {
-      "title_preview": "ADNOC Delivers First AI-Enabled Walking Island Rig - JPT Homepage",
-      "date_sent": "2026-07-09T09:26:11.936942"
-    },
-    "80e1ceae87a437aa9e54ed64709c1d54": {
-      "title_preview": "Emerson and Aramco Deploy AI Solution Aimed at Higher Refinery Yield Volume and ",
-      "date_sent": "2026-07-09T09:26:11.936942"
-    },
-    "bcb0226719a38a293c418db8de32194b": {
-      "title_preview": "Marathon, CPChem, Big West leverage AI to boost speed and reliability - BIC Maga",
-      "date_sent": "2026-07-09T09:26:11.936942"
-    },
-    "fa7f772ca24c4624cb0a128aeb018cb3": {
-      "title_preview": "New episode: AI in oil and gas, use cases in upstream, midstream, downstream - M",
-      "date_sent": "2026-07-09T09:26:11.936942"
-    },
-    "a678e629ca14264ae9f1629bab45671f": {
-      "title_preview": "Amid global oil volatility: MIT-WPU develops AI models to boost recovery, foreca",
-      "date_sent": "2026-07-09T09:26:11.936942"
-    },
     "8dcc2e10fcec785f37060ea585256196": {
       "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
       "date_sent": "2026-07-16T08:01:40.433287"
@@ -99,7 +79,27 @@
     "1bfedc6f32a81a5c51df17ba89913be2": {
       "title_preview": "How AI Is Redefining Leadership in the Petrochemical Industry - Energy Intellige",
       "date_sent": "2026-08-06T08:21:37.478486"
+    },
+    "f550d12aee471aa6c56942824515aa00": {
+      "title_preview": "Sinopec Debuts 'Fenghuo' AI Agent, Turning Artificial Intelligence Into a Digita",
+      "date_sent": "2026-08-13T07:16:13.253172"
+    },
+    "23cae317ccf81711352b37600ea41dbc": {
+      "title_preview": "The AI-First Refiner: Faster Decisions, Better Margins - bcg.com",
+      "date_sent": "2026-08-13T07:16:13.253172"
+    },
+    "53a809464fb08bc1d391f3103864eae7": {
+      "title_preview": "A hybrid simulation-machine learning proxy model for waterflood design optimizat",
+      "date_sent": "2026-08-13T07:16:13.253172"
+    },
+    "a18e2962615dd8d01b19fd788a88ded3": {
+      "title_preview": "UAE\u2019s AIQ in Talks to Launch AI Platform for Egypt\u2019s Petroleum Sector - Egypt Oi",
+      "date_sent": "2026-08-13T07:16:13.253172"
+    },
+    "5edf1a9104d3b446925c8ed7e80c1107": {
+      "title_preview": "Petroleum Minister ,UAE company discuss AI development to boost discoveries, red",
+      "date_sent": "2026-08-13T07:16:13.253172"
     }
   },
-  "last_updated": "2026-08-06T08:21:37.478579"
+  "last_updated": "2026-08-13T07:16:13.253309"
 }
