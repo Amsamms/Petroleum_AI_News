@@ -1,25 +1,5 @@
 {
   "articles": {
-    "8dcc2e10fcec785f37060ea585256196": {
-      "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
-      "date_sent": "2026-07-16T08:01:40.433287"
-    },
-    "eea901daada27c4823e2e85575f703c1": {
-      "title_preview": "The AI-First Refiner: Faster Decisions, Better Margins - Boston Consulting Group",
-      "date_sent": "2026-07-16T08:01:40.433287"
-    },
-    "56827e233b738279fc97a8581739414f": {
-      "title_preview": "Exclusive / Ex-Google exec launches AI firm for oil refineries - Semafor",
-      "date_sent": "2026-07-16T08:01:40.433287"
-    },
-    "eec74a53a4b4930121b0512539e01de5": {
-      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
-      "date_sent": "2026-07-16T08:01:40.433287"
-    },
-    "6bbeb928de70c869dd9f38122cdf3294": {
-      "title_preview": "New episode: AI in oil and gas, use cases in upstream, midstream, downstream - P",
-      "date_sent": "2026-07-16T08:01:40.433287"
-    },
     "cc5fa7d69c0360a8b7004cc46b41e753": {
       "title_preview": "Aramco Deploys Industrial AI as Strait of Hormuz Crisis Threatens Fuel Supplies ",
       "date_sent": "2026-07-23T08:17:27.723255"
@@ -99,7 +79,27 @@
     "5edf1a9104d3b446925c8ed7e80c1107": {
       "title_preview": "Petroleum Minister ,UAE company discuss AI development to boost discoveries, red",
       "date_sent": "2026-08-13T07:16:13.253172"
+    },
+    "dd3b403831f03ffebbd77ef97fc0a0b2": {
+      "title_preview": "Gain.Energy Launches Upstrima: The Industry\u2019s Premier AI Marketplace for Automat",
+      "date_sent": "2026-08-20T06:37:59.493551"
+    },
+    "c3fd1ac3a8874eeedd3c29dddfef8ba6": {
+      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - techi",
+      "date_sent": "2026-08-20T06:37:59.493551"
+    },
+    "9e402bf1033fd003cc088229a4310b51": {
+      "title_preview": "A deep learning model for contact angle prediction in carbonate reservoirs under",
+      "date_sent": "2026-08-20T06:37:59.493551"
+    },
+    "9383dd0998fab1f1b3ef5f24950cacda": {
+      "title_preview": "AI advances take safety to new heights - American Fuel & Petrochemical Manufactu",
+      "date_sent": "2026-08-20T06:37:59.493551"
+    },
+    "4ec17ca523978f842c5c4e68bf5721bf": {
+      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
+      "date_sent": "2026-08-20T06:37:59.493551"
     }
   },
-  "last_updated": "2026-08-13T07:16:13.253309"
+  "last_updated": "2026-08-20T06:37:59.493643"
 }
