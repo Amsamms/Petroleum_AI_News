@@ -1,25 +1,5 @@
 {
   "articles": {
-    "cc5fa7d69c0360a8b7004cc46b41e753": {
-      "title_preview": "Aramco Deploys Industrial AI as Strait of Hormuz Crisis Threatens Fuel Supplies ",
-      "date_sent": "2026-07-23T08:17:27.723255"
-    },
-    "5797a3ea2c761a1d9ef69a5bd664a7ab": {
-      "title_preview": "5 ways bp uses AI and other tech to drive performance | News and stories | bp Am",
-      "date_sent": "2026-07-23T08:17:27.723255"
-    },
-    "5909dc6e1f5bea2de7b364333c7224a1": {
-      "title_preview": "Sinopec launches Fenghuo, the first AI expert t... - Pluang",
-      "date_sent": "2026-07-23T08:17:27.723255"
-    },
-    "5722370816269f57d9d2107c40bc6110": {
-      "title_preview": "Applied Computing wants to give oil and gas operators an AI model for the entire",
-      "date_sent": "2026-07-23T08:17:27.723255"
-    },
-    "82633c27226acb66f779b33143403d4e": {
-      "title_preview": "How AI and digital intelligence is driving refining resilience - Energy Connects",
-      "date_sent": "2026-07-23T08:17:27.723255"
-    },
     "231922c32b9db7a7c45b5606100ed4e5": {
       "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - computerweekly.com",
       "date_sent": "2026-07-30T08:11:47.616461"
@@ -99,7 +79,27 @@
     "4ec17ca523978f842c5c4e68bf5721bf": {
       "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
       "date_sent": "2026-08-20T06:37:59.493551"
+    },
+    "8dcc2e10fcec785f37060ea585256196": {
+      "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
+      "date_sent": "2026-08-27T17:11:59.202264"
+    },
+    "5797a3ea2c761a1d9ef69a5bd664a7ab": {
+      "title_preview": "5 ways bp uses AI and other tech to drive performance | News and stories | bp Am",
+      "date_sent": "2026-08-27T17:11:59.202264"
+    },
+    "ad45d389bf32df28acfe4a3bad9c9367": {
+      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
+      "date_sent": "2026-08-27T17:11:59.202264"
+    },
+    "1b79e1c9912c643a1b5efd7c50488f6e": {
+      "title_preview": "Gain.Energy Launches Upstrima: The Industry\u2019s Premier AI Marketplace for Automat",
+      "date_sent": "2026-08-27T17:11:59.202264"
+    },
+    "56827e233b738279fc97a8581739414f": {
+      "title_preview": "Exclusive / Ex-Google exec launches AI firm for oil refineries - Semafor",
+      "date_sent": "2026-08-27T17:11:59.202264"
     }
   },
-  "last_updated": "2026-08-20T06:37:59.493643"
+  "last_updated": "2026-08-27T17:11:59.202445"
 }
