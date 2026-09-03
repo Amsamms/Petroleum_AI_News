@@ -1,25 +1,5 @@
 {
   "articles": {
-    "231922c32b9db7a7c45b5606100ed4e5": {
-      "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - computerweekly.com",
-      "date_sent": "2026-07-30T08:11:47.616461"
-    },
-    "8ee7380487408d0b2eecb1b30da6e94b": {
-      "title_preview": "From Seismic Data to Drilling Decisions: How AI is Reshaping Oil and Gas Explora",
-      "date_sent": "2026-07-30T08:11:47.616461"
-    },
-    "26661f7185a9e2405ccdfb430b66f5e9": {
-      "title_preview": "A hybrid simulation-machine learning proxy model for waterflood design optimizat",
-      "date_sent": "2026-07-30T08:11:47.616461"
-    },
-    "d1d3ab06030a9fa7b4ea6802d86c2c49": {
-      "title_preview": "The power of AI in petrochemical operations - Hydrocarbon Engineering",
-      "date_sent": "2026-07-30T08:11:47.616461"
-    },
-    "4f57c9dff9d485bf210bd22138d52f7e": {
-      "title_preview": "Top 10 AI tools driving innovation in oil and gas operations - Energy, Oil & Gas",
-      "date_sent": "2026-07-30T08:11:47.616461"
-    },
     "e3c46d0c7b973f3f30c3bb6792c61f0e": {
       "title_preview": "ADNOC, SLB Deploy AI Across 120+ Drilling Rigs - Egypt Oil & Gas",
       "date_sent": "2026-08-06T08:21:37.478486"
@@ -99,7 +79,27 @@
     "56827e233b738279fc97a8581739414f": {
       "title_preview": "Exclusive / Ex-Google exec launches AI firm for oil refineries - Semafor",
       "date_sent": "2026-08-27T17:11:59.202264"
+    },
+    "8c59959519c302a0c6aa553024d96e55": {
+      "title_preview": "Honeywell and Borouge Launch AI-Powered Autonomous Petrochemical Operations in U",
+      "date_sent": "2026-09-03T10:30:12.218233"
+    },
+    "bcb0226719a38a293c418db8de32194b": {
+      "title_preview": "Marathon, CPChem, Big West leverage AI to boost speed and reliability - BIC Maga",
+      "date_sent": "2026-09-03T10:30:12.218233"
+    },
+    "70a0f9e6b4573c1aa474702d2d76e961": {
+      "title_preview": "Case Study: AI-Driven Data Reduces Refinery Maintenance Costs - Automation.com",
+      "date_sent": "2026-09-03T10:30:12.218233"
+    },
+    "e33930f8bd13f1c641089bb43c95ef95": {
+      "title_preview": "MIT-WPU Develops AI Models to Boost Oil Recovery - Construction World",
+      "date_sent": "2026-09-03T10:30:12.218233"
+    },
+    "9a4bc97ff1810304b3f5fdd3b602978c": {
+      "title_preview": "Top 10 AI Trends Reshaping Oil & Gas Operations in 2026-27 - Oil & Gas IQ",
+      "date_sent": "2026-09-03T10:30:12.218233"
     }
   },
-  "last_updated": "2026-08-27T17:11:59.202445"
+  "last_updated": "2026-09-03T10:30:12.218332"
 }
