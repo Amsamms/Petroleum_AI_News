@@ -1,25 +1,5 @@
 {
   "articles": {
-    "e3c46d0c7b973f3f30c3bb6792c61f0e": {
-      "title_preview": "ADNOC, SLB Deploy AI Across 120+ Drilling Rigs - Egypt Oil & Gas",
-      "date_sent": "2026-08-06T08:21:37.478486"
-    },
-    "62a0e6309896f2071cc8a6293d344f9f": {
-      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - TechI",
-      "date_sent": "2026-08-06T08:21:37.478486"
-    },
-    "79183865a2a4ac2734530094ff867d2b": {
-      "title_preview": "5 ways bp uses AI and other tech to drive performance - bp global",
-      "date_sent": "2026-08-06T08:21:37.478486"
-    },
-    "8b3618be386e2a78945a8aca8df9fdaa": {
-      "title_preview": "Here's how AI could unleash a trillion more barrels of oil - Axios",
-      "date_sent": "2026-08-06T08:21:37.478486"
-    },
-    "1bfedc6f32a81a5c51df17ba89913be2": {
-      "title_preview": "How AI Is Redefining Leadership in the Petrochemical Industry - Energy Intellige",
-      "date_sent": "2026-08-06T08:21:37.478486"
-    },
     "f550d12aee471aa6c56942824515aa00": {
       "title_preview": "Sinopec Debuts 'Fenghuo' AI Agent, Turning Artificial Intelligence Into a Digita",
       "date_sent": "2026-08-13T07:16:13.253172"
@@ -99,7 +79,27 @@
     "9a4bc97ff1810304b3f5fdd3b602978c": {
       "title_preview": "Top 10 AI Trends Reshaping Oil & Gas Operations in 2026-27 - Oil & Gas IQ",
       "date_sent": "2026-09-03T10:30:12.218233"
+    },
+    "62a0e6309896f2071cc8a6293d344f9f": {
+      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - TechI",
+      "date_sent": "2026-09-10T10:21:52.840269"
+    },
+    "0acd515bc6d9d663482574598d8ffdd7": {
+      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
+      "date_sent": "2026-09-10T10:21:52.840269"
+    },
+    "8ee7380487408d0b2eecb1b30da6e94b": {
+      "title_preview": "From Seismic Data to Drilling Decisions: How AI is Reshaping Oil and Gas Explora",
+      "date_sent": "2026-09-10T10:21:52.840269"
+    },
+    "e5a96dc15e8104837f476777a9b0a146": {
+      "title_preview": "Gain.Energy Launches AI Platform for Oil and Gas Engineering - Machine Maker",
+      "date_sent": "2026-09-10T10:21:52.840269"
+    },
+    "a678e629ca14264ae9f1629bab45671f": {
+      "title_preview": "Amid global oil volatility: MIT-WPU develops AI models to boost recovery, foreca",
+      "date_sent": "2026-09-10T10:21:52.840269"
     }
   },
-  "last_updated": "2026-09-03T10:30:12.218332"
+  "last_updated": "2026-09-10T10:21:52.840353"
 }
