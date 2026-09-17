@@ -1,25 +1,5 @@
 {
   "articles": {
-    "f550d12aee471aa6c56942824515aa00": {
-      "title_preview": "Sinopec Debuts 'Fenghuo' AI Agent, Turning Artificial Intelligence Into a Digita",
-      "date_sent": "2026-08-13T07:16:13.253172"
-    },
-    "23cae317ccf81711352b37600ea41dbc": {
-      "title_preview": "The AI-First Refiner: Faster Decisions, Better Margins - bcg.com",
-      "date_sent": "2026-08-13T07:16:13.253172"
-    },
-    "53a809464fb08bc1d391f3103864eae7": {
-      "title_preview": "A hybrid simulation-machine learning proxy model for waterflood design optimizat",
-      "date_sent": "2026-08-13T07:16:13.253172"
-    },
-    "a18e2962615dd8d01b19fd788a88ded3": {
-      "title_preview": "UAE\u2019s AIQ in Talks to Launch AI Platform for Egypt\u2019s Petroleum Sector - Egypt Oi",
-      "date_sent": "2026-08-13T07:16:13.253172"
-    },
-    "5edf1a9104d3b446925c8ed7e80c1107": {
-      "title_preview": "Petroleum Minister ,UAE company discuss AI development to boost discoveries, red",
-      "date_sent": "2026-08-13T07:16:13.253172"
-    },
     "dd3b403831f03ffebbd77ef97fc0a0b2": {
       "title_preview": "Gain.Energy Launches Upstrima: The Industry\u2019s Premier AI Marketplace for Automat",
       "date_sent": "2026-08-20T06:37:59.493551"
@@ -99,7 +79,27 @@
     "a678e629ca14264ae9f1629bab45671f": {
       "title_preview": "Amid global oil volatility: MIT-WPU develops AI models to boost recovery, foreca",
       "date_sent": "2026-09-10T10:21:52.840269"
+    },
+    "80e1ceae87a437aa9e54ed64709c1d54": {
+      "title_preview": "Emerson and Aramco Deploy AI Solution Aimed at Higher Refinery Yield Volume and ",
+      "date_sent": "2026-09-17T10:46:19.910406"
+    },
+    "c06ff37e2292c0f12c10343ec52449d4": {
+      "title_preview": "TotalEnergies partners with Mistral to develop AI models for oil and gas exploit",
+      "date_sent": "2026-09-17T10:46:19.910406"
+    },
+    "8b4a8b07f87a9447c3b4bbc5d965b799": {
+      "title_preview": "Analysis: AI could unlock $230 billion in annual upstream oil and gas value - Oi",
+      "date_sent": "2026-09-17T10:46:19.910406"
+    },
+    "53a809464fb08bc1d391f3103864eae7": {
+      "title_preview": "A hybrid simulation-machine learning proxy model for waterflood design optimizat",
+      "date_sent": "2026-09-17T10:46:19.910406"
+    },
+    "eea901daada27c4823e2e85575f703c1": {
+      "title_preview": "The AI-First Refiner: Faster Decisions, Better Margins - Boston Consulting Group",
+      "date_sent": "2026-09-17T10:46:19.910406"
     }
   },
-  "last_updated": "2026-09-10T10:21:52.840353"
+  "last_updated": "2026-09-17T10:46:19.910501"
 }
