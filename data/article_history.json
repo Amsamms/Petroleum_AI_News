@@ -1,25 +1,5 @@
 {
   "articles": {
-    "dd3b403831f03ffebbd77ef97fc0a0b2": {
-      "title_preview": "Gain.Energy Launches Upstrima: The Industry\u2019s Premier AI Marketplace for Automat",
-      "date_sent": "2026-08-20T06:37:59.493551"
-    },
-    "c3fd1ac3a8874eeedd3c29dddfef8ba6": {
-      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - techi",
-      "date_sent": "2026-08-20T06:37:59.493551"
-    },
-    "9e402bf1033fd003cc088229a4310b51": {
-      "title_preview": "A deep learning model for contact angle prediction in carbonate reservoirs under",
-      "date_sent": "2026-08-20T06:37:59.493551"
-    },
-    "9383dd0998fab1f1b3ef5f24950cacda": {
-      "title_preview": "AI advances take safety to new heights - American Fuel & Petrochemical Manufactu",
-      "date_sent": "2026-08-20T06:37:59.493551"
-    },
-    "4ec17ca523978f842c5c4e68bf5721bf": {
-      "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
-      "date_sent": "2026-08-20T06:37:59.493551"
-    },
     "8dcc2e10fcec785f37060ea585256196": {
       "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
       "date_sent": "2026-08-27T17:11:59.202264"
@@ -99,7 +79,27 @@
     "eea901daada27c4823e2e85575f703c1": {
       "title_preview": "The AI-First Refiner: Faster Decisions, Better Margins - Boston Consulting Group",
       "date_sent": "2026-09-17T10:46:19.910406"
+    },
+    "dea503668862ea6ed562fdda41423b23": {
+      "title_preview": "TotalEnergies and Mistral allocate US$115 million to AI for oil and gas - Inspen",
+      "date_sent": "2026-09-24T10:53:22.006934"
+    },
+    "5722370816269f57d9d2107c40bc6110": {
+      "title_preview": "Applied Computing wants to give oil and gas operators an AI model for the entire",
+      "date_sent": "2026-09-24T10:53:22.006934"
+    },
+    "82633c27226acb66f779b33143403d4e": {
+      "title_preview": "How AI and digital intelligence is driving refining resilience - Energy Connects",
+      "date_sent": "2026-09-24T10:53:22.006934"
+    },
+    "eec74a53a4b4930121b0512539e01de5": {
+      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
+      "date_sent": "2026-09-24T10:53:22.006934"
+    },
+    "c82c40e1625ac66d59e2cfb82a7933f4": {
+      "title_preview": "Formation permeability estimation using mud loss data by deep learning - Nature",
+      "date_sent": "2026-09-24T10:53:22.006934"
     }
   },
-  "last_updated": "2026-09-17T10:46:19.910501"
+  "last_updated": "2026-09-24T10:53:22.007029"
 }
