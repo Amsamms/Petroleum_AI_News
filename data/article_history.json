@@ -1,25 +1,5 @@
 {
   "articles": {
-    "8dcc2e10fcec785f37060ea585256196": {
-      "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
-      "date_sent": "2026-08-27T17:11:59.202264"
-    },
-    "5797a3ea2c761a1d9ef69a5bd664a7ab": {
-      "title_preview": "5 ways bp uses AI and other tech to drive performance | News and stories | bp Am",
-      "date_sent": "2026-08-27T17:11:59.202264"
-    },
-    "ad45d389bf32df28acfe4a3bad9c9367": {
-      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
-      "date_sent": "2026-08-27T17:11:59.202264"
-    },
-    "1b79e1c9912c643a1b5efd7c50488f6e": {
-      "title_preview": "Gain.Energy Launches Upstrima: The Industry\u2019s Premier AI Marketplace for Automat",
-      "date_sent": "2026-08-27T17:11:59.202264"
-    },
-    "56827e233b738279fc97a8581739414f": {
-      "title_preview": "Exclusive / Ex-Google exec launches AI firm for oil refineries - Semafor",
-      "date_sent": "2026-08-27T17:11:59.202264"
-    },
     "8c59959519c302a0c6aa553024d96e55": {
       "title_preview": "Honeywell and Borouge Launch AI-Powered Autonomous Petrochemical Operations in U",
       "date_sent": "2026-09-03T10:30:12.218233"
@@ -99,7 +79,27 @@
     "c82c40e1625ac66d59e2cfb82a7933f4": {
       "title_preview": "Formation permeability estimation using mud loss data by deep learning - Nature",
       "date_sent": "2026-09-24T10:53:22.006934"
+    },
+    "8dcc2e10fcec785f37060ea585256196": {
+      "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
+      "date_sent": "2026-10-01T12:11:52.371858"
+    },
+    "5d1fca2a813482042d0548b87c241bda": {
+      "title_preview": "AI In Downstream Oil And Gas: Refining Process Boost - Farmonaut",
+      "date_sent": "2026-10-01T12:11:52.371858"
+    },
+    "1b79e1c9912c643a1b5efd7c50488f6e": {
+      "title_preview": "Gain.Energy Launches Upstrima: The Industry\u2019s Premier AI Marketplace for Automat",
+      "date_sent": "2026-10-01T12:11:52.371858"
+    },
+    "205caf7b706be169939bc3159e116d49": {
+      "title_preview": "Our Research Focus: Using AI to Understand Catalytic Surfaces - The Chemical Eng",
+      "date_sent": "2026-10-01T12:11:52.371858"
+    },
+    "63538fa5b9281ef0e944f995d8f3f5fb": {
+      "title_preview": "AI is helping to detect and reduce methane emissions \u2013 here's how - The World Ec",
+      "date_sent": "2026-10-01T12:11:52.371858"
     }
   },
-  "last_updated": "2026-09-24T10:53:22.007029"
+  "last_updated": "2026-10-01T12:11:52.371972"
 }
