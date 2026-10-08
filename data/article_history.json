@@ -1,25 +1,5 @@
 {
   "articles": {
-    "8c59959519c302a0c6aa553024d96e55": {
-      "title_preview": "Honeywell and Borouge Launch AI-Powered Autonomous Petrochemical Operations in U",
-      "date_sent": "2026-09-03T10:30:12.218233"
-    },
-    "bcb0226719a38a293c418db8de32194b": {
-      "title_preview": "Marathon, CPChem, Big West leverage AI to boost speed and reliability - BIC Maga",
-      "date_sent": "2026-09-03T10:30:12.218233"
-    },
-    "70a0f9e6b4573c1aa474702d2d76e961": {
-      "title_preview": "Case Study: AI-Driven Data Reduces Refinery Maintenance Costs - Automation.com",
-      "date_sent": "2026-09-03T10:30:12.218233"
-    },
-    "e33930f8bd13f1c641089bb43c95ef95": {
-      "title_preview": "MIT-WPU Develops AI Models to Boost Oil Recovery - Construction World",
-      "date_sent": "2026-09-03T10:30:12.218233"
-    },
-    "9a4bc97ff1810304b3f5fdd3b602978c": {
-      "title_preview": "Top 10 AI Trends Reshaping Oil & Gas Operations in 2026-27 - Oil & Gas IQ",
-      "date_sent": "2026-09-03T10:30:12.218233"
-    },
     "62a0e6309896f2071cc8a6293d344f9f": {
       "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - TechI",
       "date_sent": "2026-09-10T10:21:52.840269"
@@ -99,7 +79,27 @@
     "63538fa5b9281ef0e944f995d8f3f5fb": {
       "title_preview": "AI is helping to detect and reduce methane emissions \u2013 here's how - The World Ec",
       "date_sent": "2026-10-01T12:11:52.371858"
+    },
+    "c1a0610cd66405fe2d3d954b36b6c4b3": {
+      "title_preview": "Geological information-driven deep learning for lithology identification from we",
+      "date_sent": "2026-10-08T12:36:55.019053"
+    },
+    "56827e233b738279fc97a8581739414f": {
+      "title_preview": "Exclusive / Ex-Google exec launches AI firm for oil refineries - Semafor",
+      "date_sent": "2026-10-08T12:36:55.019053"
+    },
+    "795e036b9f5c0813da03f366c842e0b7": {
+      "title_preview": "ERC Tries AI agent to Predict Equipment Failure - Egypt Oil & Gas",
+      "date_sent": "2026-10-08T12:36:55.019053"
+    },
+    "a8fb44e4d476b3de761f157c2df3fa11": {
+      "title_preview": "Ulsan Petrochemical Complex Launches AI Transformation Push - Seoul Economic Dai",
+      "date_sent": "2026-10-08T12:36:55.019053"
+    },
+    "b50b505ed518a28ce96b77fd3dbae8ba": {
+      "title_preview": "How AI Narrows the Planning-Operations Gap at Oil Refineries - ASHARQ AL-AWSAT E",
+      "date_sent": "2026-10-08T12:36:55.019053"
     }
   },
-  "last_updated": "2026-10-01T12:11:52.371972"
+  "last_updated": "2026-10-08T12:36:55.019134"
 }
