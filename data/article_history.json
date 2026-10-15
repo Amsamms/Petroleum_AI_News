@@ -1,25 +1,5 @@
 {
   "articles": {
-    "62a0e6309896f2071cc8a6293d344f9f": {
-      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - TechI",
-      "date_sent": "2026-09-10T10:21:52.840269"
-    },
-    "0acd515bc6d9d663482574598d8ffdd7": {
-      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
-      "date_sent": "2026-09-10T10:21:52.840269"
-    },
-    "8ee7380487408d0b2eecb1b30da6e94b": {
-      "title_preview": "From Seismic Data to Drilling Decisions: How AI is Reshaping Oil and Gas Explora",
-      "date_sent": "2026-09-10T10:21:52.840269"
-    },
-    "e5a96dc15e8104837f476777a9b0a146": {
-      "title_preview": "Gain.Energy Launches AI Platform for Oil and Gas Engineering - Machine Maker",
-      "date_sent": "2026-09-10T10:21:52.840269"
-    },
-    "a678e629ca14264ae9f1629bab45671f": {
-      "title_preview": "Amid global oil volatility: MIT-WPU develops AI models to boost recovery, foreca",
-      "date_sent": "2026-09-10T10:21:52.840269"
-    },
     "80e1ceae87a437aa9e54ed64709c1d54": {
       "title_preview": "Emerson and Aramco Deploy AI Solution Aimed at Higher Refinery Yield Volume and ",
       "date_sent": "2026-09-17T10:46:19.910406"
@@ -99,7 +79,27 @@
     "b50b505ed518a28ce96b77fd3dbae8ba": {
       "title_preview": "How AI Narrows the Planning-Operations Gap at Oil Refineries - ASHARQ AL-AWSAT E",
       "date_sent": "2026-10-08T12:36:55.019053"
+    },
+    "b6738cad16d2ad979ff026a6c1451bf1": {
+      "title_preview": "Jamnagar\u2019s AI leap: Anant Ambani says Reliance is building world\u2019s first autonom",
+      "date_sent": "2026-10-15T10:39:39.684969"
+    },
+    "62a0e6309896f2071cc8a6293d344f9f": {
+      "title_preview": "Emerson and Aramco deploy refinery AI model to tighten planning accuracy - TechI",
+      "date_sent": "2026-10-15T10:39:39.684969"
+    },
+    "ad45d389bf32df28acfe4a3bad9c9367": {
+      "title_preview": "Hydrocarbon Processing launches AI platform to accelerate decisions in the downs",
+      "date_sent": "2026-10-15T10:39:39.684969"
+    },
+    "a678e629ca14264ae9f1629bab45671f": {
+      "title_preview": "Amid global oil volatility: MIT-WPU develops AI models to boost recovery, foreca",
+      "date_sent": "2026-10-15T10:39:39.684969"
+    },
+    "5f4aa2844d992220540034ca1f3ea578": {
+      "title_preview": "Machine-learning-based prediction of pipe-sticking events in petroleum drilling ",
+      "date_sent": "2026-10-15T10:39:39.684969"
     }
   },
-  "last_updated": "2026-10-08T12:36:55.019134"
+  "last_updated": "2026-10-15T10:39:39.685066"
 }
