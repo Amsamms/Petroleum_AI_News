@@ -1,25 +1,5 @@
 {
   "articles": {
-    "dea503668862ea6ed562fdda41423b23": {
-      "title_preview": "TotalEnergies and Mistral allocate US$115 million to AI for oil and gas - Inspen",
-      "date_sent": "2026-09-24T10:53:22.006934"
-    },
-    "5722370816269f57d9d2107c40bc6110": {
-      "title_preview": "Applied Computing wants to give oil and gas operators an AI model for the entire",
-      "date_sent": "2026-09-24T10:53:22.006934"
-    },
-    "82633c27226acb66f779b33143403d4e": {
-      "title_preview": "How AI and digital intelligence is driving refining resilience - Energy Connects",
-      "date_sent": "2026-09-24T10:53:22.006934"
-    },
-    "eec74a53a4b4930121b0512539e01de5": {
-      "title_preview": "Data-driven simulation of crude distillation using Aspen HYSYS and comparative m",
-      "date_sent": "2026-09-24T10:53:22.006934"
-    },
-    "c82c40e1625ac66d59e2cfb82a7933f4": {
-      "title_preview": "Formation permeability estimation using mud loss data by deep learning - Nature",
-      "date_sent": "2026-09-24T10:53:22.006934"
-    },
     "8dcc2e10fcec785f37060ea585256196": {
       "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
       "date_sent": "2026-10-01T12:11:52.371858"
@@ -99,7 +79,27 @@
     "4ec17ca523978f842c5c4e68bf5721bf": {
       "title_preview": "Optimization of energy consumption in the gas refinery sweetening unit using RSM",
       "date_sent": "2026-10-22T10:56:57.610612"
+    },
+    "6e5c2ae2954490cd545d641eca839514": {
+      "title_preview": "Honeywell Launches Forge Plant Cognition at Dangote Refinery to Unlock $60 Milli",
+      "date_sent": "2026-10-29T12:03:56.318867"
+    },
+    "db2cfd325e900b0f730a98f73531462f": {
+      "title_preview": "Exxon using AI for faster analysis of Guyana's oil fields, VP of exploration say",
+      "date_sent": "2026-10-29T12:03:56.318867"
+    },
+    "8ee7380487408d0b2eecb1b30da6e94b": {
+      "title_preview": "From Seismic Data to Drilling Decisions: How AI is Reshaping Oil and Gas Explora",
+      "date_sent": "2026-10-29T12:03:56.318867"
+    },
+    "0e6b359a459ac97fb6a73e4fe28da835": {
+      "title_preview": "Isu Chemical introduces AI operation support in petrochemical processes - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+      "date_sent": "2026-10-29T12:03:56.318867"
+    },
+    "dda978e8e5c3abf459971a2758b1fa27": {
+      "title_preview": "ANYbotics Unleashes Four-Legged AI Robot for Oil and Gas Inspections - Marine Te",
+      "date_sent": "2026-10-29T12:03:56.318867"
     }
   },
-  "last_updated": "2026-10-22T10:56:57.610703"
+  "last_updated": "2026-10-29T12:03:56.318990"
 }
