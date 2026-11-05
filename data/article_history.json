@@ -1,25 +1,5 @@
 {
   "articles": {
-    "8dcc2e10fcec785f37060ea585256196": {
-      "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
-      "date_sent": "2026-10-01T12:11:52.371858"
-    },
-    "5d1fca2a813482042d0548b87c241bda": {
-      "title_preview": "AI In Downstream Oil And Gas: Refining Process Boost - Farmonaut",
-      "date_sent": "2026-10-01T12:11:52.371858"
-    },
-    "1b79e1c9912c643a1b5efd7c50488f6e": {
-      "title_preview": "Gain.Energy Launches Upstrima: The Industry\u2019s Premier AI Marketplace for Automat",
-      "date_sent": "2026-10-01T12:11:52.371858"
-    },
-    "205caf7b706be169939bc3159e116d49": {
-      "title_preview": "Our Research Focus: Using AI to Understand Catalytic Surfaces - The Chemical Eng",
-      "date_sent": "2026-10-01T12:11:52.371858"
-    },
-    "63538fa5b9281ef0e944f995d8f3f5fb": {
-      "title_preview": "AI is helping to detect and reduce methane emissions \u2013 here's how - The World Ec",
-      "date_sent": "2026-10-01T12:11:52.371858"
-    },
     "c1a0610cd66405fe2d3d954b36b6c4b3": {
       "title_preview": "Geological information-driven deep learning for lithology identification from we",
       "date_sent": "2026-10-08T12:36:55.019053"
@@ -99,7 +79,27 @@
     "dda978e8e5c3abf459971a2758b1fa27": {
       "title_preview": "ANYbotics Unleashes Four-Legged AI Robot for Oil and Gas Inspections - Marine Te",
       "date_sent": "2026-10-29T12:03:56.318867"
+    },
+    "e2b5e0112751b45b3d79cb68dac83e17": {
+      "title_preview": "ADNOC to become first energy company to deploy OpenAI\u2019s Frontier technology - Fo",
+      "date_sent": "2026-11-05T13:48:57.820980"
+    },
+    "70d78af74c434d65a3b17fa610f237dc": {
+      "title_preview": "Dangote Refinery bets on AI to unlock $60m annual operational gains - Businessda",
+      "date_sent": "2026-11-05T13:48:57.820980"
+    },
+    "f550d12aee471aa6c56942824515aa00": {
+      "title_preview": "Sinopec Debuts 'Fenghuo' AI Agent, Turning Artificial Intelligence Into a Digita",
+      "date_sent": "2026-11-05T13:48:57.820980"
+    },
+    "8dcc2e10fcec785f37060ea585256196": {
+      "title_preview": "Saudi Aramco deploys AI refinery system with Emerson - Computer Weekly",
+      "date_sent": "2026-11-05T13:48:57.820980"
+    },
+    "70a0f9e6b4573c1aa474702d2d76e961": {
+      "title_preview": "Case Study: AI-Driven Data Reduces Refinery Maintenance Costs - Automation.com",
+      "date_sent": "2026-11-05T13:48:57.820980"
     }
   },
-  "last_updated": "2026-10-29T12:03:56.318990"
+  "last_updated": "2026-11-05T13:48:57.821078"
 }
